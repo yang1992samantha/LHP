@@ -1,10 +1,10 @@
 ## LHP: Logical Hypergraph Link Prediction  
 
-#### Introduction
+### Introduction
 
  This is the PyTorch implementation of the LHP model.
 
-#### Run
+### Run
 
 For example,this command train and test a LHP model on CMHR dataset
 
@@ -12,7 +12,7 @@ python main.py -- data "medical" --dataset "splits/1" --epoch 5000 --task "multi
 
  Check argparse configuration at config.py for more arguments and more details. 
 
-#### Dataset
+### Dataset
 
 There are there datasets used in this paper,CMHR,iAF1260b,Reverb45k
 
