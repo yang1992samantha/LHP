@@ -168,3 +168,4 @@ def draw_from_log_2(file,path):
     print("save picture over!")
     plt.show()
     return 0
+
