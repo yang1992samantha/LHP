@@ -66,13 +66,24 @@ def load_hyper_data(p,ent_id,rel,embedding):
                     rel[add_rel_type] = "neg"
             # get hyperedge type list
             rel_type_list.append(add_rel_type)
-            #first node is head and others are tail
-            head_node_id = ent_id[line[1]]
-            hypers_head.append([hyper_id,head_node_id,-1])
-            tail_nodes = line[2:]
-            for n in tail_nodes:
+            #####
+            # #first node is head and others are tail
+            # head_node_id = ent_id[line[1]]
+            # hypers_head.append([hyper_id,head_node_id,-1])
+            # tail_nodes = line[2:]
+            # for n in tail_nodes:
+            #     n_id = ent_id[n]
+            #     hypers_tail.append([hyper_id,n_id,1])
+            # #####
+
+            #the last node is tail and others are head
+            tail_node_id = ent_id[line[1]]
+            hypers_tail.append([hyper_id,tail_node_id,-1])
+            head_nodes = line[2:]
+            for n in head_nodes:
                 n_id = ent_id[n]
-                hypers_tail.append([hyper_id,n_id,1])
+                hypers_head.append([hyper_id,n_id,1])
+            ######
             hyper_id = hyper_id + 1
         f.close()
     elif args.task == "multi_classifier":
@@ -94,13 +105,23 @@ def load_hyper_data(p,ent_id,rel,embedding):
                     rel[add_rel_type] = "neg"
 
             rel_type_list.append(add_rel_type)
-            # first node is head and others are tail
-            head_node_id = ent_id[line[1]]
-            hypers_head.append([hyper_id, head_node_id, -1])
-            tail_nodes = line[2:]
-            for n in tail_nodes:
+            # ###
+            # # first node is head and others are tail
+            # head_node_id = ent_id[line[1]]
+            # hypers_head.append([hyper_id, head_node_id, -1])
+            # tail_nodes = line[2:]
+            # for n in tail_nodes:
+            #     n_id = ent_id[n]
+            #     hypers_tail.append([hyper_id, n_id, 1])
+            # ####
+            #the last node is tail and others are head
+            tail_node_id = ent_id[line[1]]
+            hypers_tail.append([hyper_id,tail_node_id,-1])
+            head_nodes = line[2:]
+            for n in head_nodes:
                 n_id = ent_id[n]
-                hypers_tail.append([hyper_id, n_id, 1])
+                hypers_head.append([hyper_id,n_id,1])
+            ######
             hyper_id = hyper_id + 1
         f.close()
 
@@ -124,6 +145,11 @@ def load_hyper_data(p,ent_id,rel,embedding):
         node_id = hypers_tail[kt][1]  # node id
         b = hypers_tail[kt][0]
         adj_tail[node_id][b] = 1
+    # head_num = torch.tensor([(h == 1).sum() for h in adj_head.t()])
+    # tail_num = torch.tensor([(h == 1).sum() for h in adj_tail.t()])
+    # total_num = head_num + tail_num
+    # max_node_num = torch.max(total_num)
+    # print("----------max_node_num-------------",max_node_num)
 
     return torch.from_numpy(head_node_embedding).float(),adj_head,torch.from_numpy(tail_node_embedding).float(),adj_tail,rel,rel_type_tensor
 
@@ -156,34 +182,18 @@ def load_hypers():
         #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "encoder_128.npy"))
         all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "gat.npy"))
     elif args.embedding == "word2vector":
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "wv.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "norelwv_256.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "norelwv_64_256.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "wv_256_10_10.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "wv_256_2_10.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "wv_256_2_100.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "norelwv_window1_256.npy"))
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "medical_norealword2vec_single_256.npy"))
         all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "word2vec.npy"))
 
-
-        #all_ent_embeddings = read_embedding(os.path.join(args.data, args.dataset, "wv_256.npy"))
     elif args.embedding == "random":
         all_ent_embeddings = np.random.uniform(-2,2,(len(ent_id_dict),args.embed_dim_in))#实体个数和256
-        #all_ent_embeddings = np.random.random((len(ent_id_dict),args.embed_dim_in))#实体个数和256
 
     rel_type = {}
-    #load train data
-    train_data = []
-    val_data = []
-    test_data = []
     train_data = load_hyper_data("train",ent_id_dict,rel_type,all_ent_embeddings)
     val_data = load_hyper_data("val", ent_id_dict, rel_type,all_ent_embeddings)
     test_data = load_hyper_data("test", ent_id_dict, rel_type,all_ent_embeddings)
     weight = create_weight(train_data[5])
 
     return train_data,val_data,test_data,weight
-    #return test_data,train_data,val_data,weight
 
 
 def normalise(M):
@@ -205,13 +215,13 @@ def normalise(M):
     return DI.dot(M)
 
 
-def create_node_tail_data(data_pos,data_neg,embedding):
+def create_node_tail_data(data_pos,data_neg,embedding,node_num,hyper_num):
 
     rel = {0:"neg",1:"pos"}
 
     #pos 的超边数量
-    pos_len = data_pos[-1][0] + 1
-    neg_len = data_neg[-1][0] + 1
+    pos_len = data_pos[-1][0] + 1#13382,53532
+    neg_len = data_neg[-1][0] + 1#13382,53532
     if pos_len != neg_len:
         print("error! pos_len is not equal neg_len")
     rel_type =torch.cat([torch.ones(pos_len,dtype=torch.int32),torch.zeros(pos_len,dtype=torch.int32)])
@@ -234,21 +244,20 @@ def create_node_tail_data(data_pos,data_neg,embedding):
         else:
             print("error")
 
-    #
-    head_node_embedding = np.zeros((len(hypers_head), args.embed_dim_in))
-    for ix, (_, i, _) in enumerate(hypers_head): head_node_embedding[ix] = embedding[i]
-    # tail nodes embedding
-    tail_node_embedding = np.zeros((len(hypers_tail), args.embed_dim_in))
-    for jx, (_, j, _) in enumerate(hypers_tail): tail_node_embedding[jx] = embedding[j]
+    head_node_embedding = embedding
+    tail_node_embedding = embedding
+    ####
     # get head node adj
-    adj_head = torch.zeros(len(hypers_head), 2*pos_len)
-    adj_tail = torch.zeros(len(hypers_tail), 2*pos_len)
+    adj_head = torch.zeros(node_num, 2*pos_len)
+    adj_tail = torch.zeros(node_num, 2*pos_len)
     for kh in range(len(hypers_head)):
+        node_id = hypers_head[kh][1]
         b = hypers_head[kh][0]
-        adj_head[kh][b] = 1
+        adj_head[node_id][b] = 1
     for kt in range(len(hypers_tail)):
+        node_id = hypers_tail[kt][1]
         b = hypers_tail[kt][0]
-        adj_tail[kt][b] = 1
+        adj_tail[node_id][b] = 1
 
     return torch.from_numpy(head_node_embedding).float(), adj_head, torch.from_numpy(
         tail_node_embedding).float(), adj_tail,rel, rel_type
@@ -260,34 +269,23 @@ def load_IAF_data():
 
     with open(os.path.join(args.data, args.dataset, 'indices.pkl'), 'rb') as f:
         D = pickle.load(f)
-    n, m = D['n'], D['m']#
-    train_pos = D["pos_train"]#1772
+    n, m = D['n'], D['m']#m 超邊:66914 n結點:28798
+    #####
+    train_pos = D["pos_train"]#1772,86058
     train_neg = D["neg_train"]
-    test_pos = D["pos_test"]#7179
+    test_pos = D["pos_test"]#7179,338796
     test_neg = D["neg_test"]
-    if args.data == "IAF":
-        if args.embedding == "random":
-            X = nn.init.xavier_normal_(torch.zeros(n,args.embed_dim_in))
-        else:#word2vector
-            X = normalise(sp.load_npz(os.path.join(args.data, args.dataset, "X.npz"))).todense()
-    elif args.data == "rev":
-        if args.embedding == "random":
-            X = nn.init.xavier_normal_(torch.zeros(n,args.embed_dim_in))
-        elif args.embedding == "bert":
-            X = torch.from_numpy(np.load(os.path.join(args.data, args.dataset, "X_bert.npy")))
-            #X = normalise(sp.load_npz(os.path.join(args.data, args.dataset, "X_bert.npz"))).todense()
-        else:#word2vector
-            X = torch.from_numpy(np.load(os.path.join(args.data, args.dataset, "X.npy")))
-            #X = normalise(sp.load_npz(os.path.join(args.data, args.dataset, "X.npz"))).todense()
+
+    if args.embedding == "random":
+        X = nn.init.xavier_normal_(torch.zeros(n,args.embed_dim_in))
+        X = X.numpy()
+    else:#word2vector
+        X = normalise(sp.load_npz(os.path.join(args.data, args.dataset, "X.npz"))).todense()
 
     #生成train/test的头embedding 头adj
-    train_data = create_node_tail_data(train_pos,train_neg,X)
-    test_data = create_node_tail_data(test_pos,test_neg,X)
-
-    #训练集当作测试集，测试集当作验证集合
-    # test_data = create_node_tail_data(train_pos, train_neg, X)
-    # train_data = create_node_tail_data(test_pos, test_neg, X)
-    weight = create_weight(train_data[5])
+    train_data = create_node_tail_data(train_pos,train_neg,X,n,m)#85864,26764
+    test_data = create_node_tail_data(test_pos,test_neg,X,n,m)#40336,11714
+    weight = create_weight(train_data[5])#11714
 
     return train_data, test_data, weight
 
@@ -295,4 +293,5 @@ def load_IAF_data():
 
 #load_IAF_data()
 #load_hypers()
+
 
