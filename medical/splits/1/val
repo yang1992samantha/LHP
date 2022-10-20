@@ -1,0 +1,846 @@
+diZsy	IgA肾病..disease	蛋白尿..symptom	血尿..symptom	
+diZsy	腹内疝..disease	恶心..symptom	呕吐..symptom	
+diZsy	老年人自发性气胸..disease	呼吸困难..symptom	发绀..symptom	
+diZsy	妊娠合并哮喘..disease	咳嗽..symptom	呼吸困难..symptom	哮鸣音..symptom	
+diZsy	新生儿肺炎..disease	咳嗽..symptom	咳痰..symptom	发热..symptom	
+diZsy	老年人急性左心衰竭..disease	呼吸困难..symptom	咳嗽..symptom	粉红色泡沫痰..symptom	
+diZsy	胃切除术后内疝..disease	恶心..symptom	呕吐..symptom	疼痛..symptom	压痛..symptom	
+diZsy	小儿慢性肾功能衰竭..disease	多饮..symptom	多尿..symptom	
+diZsy	肾血管畸形与压迫..disease	蛋白尿..symptom	血尿..symptom	
+diZsy	食管贲门黏膜撕裂综合征..disease	呕血..symptom	黑便..symptom	
+diZsy	恶性淋巴瘤..disease	呼吸困难..symptom	发热..symptom	发绀..symptom	
+diZsy	肺疟疾病..disease	咳嗽..symptom	咳痰..symptom	发热..symptom	
+diZsy	呕血与黑粪..disease	头晕..symptom	呕血..symptom	黑便..symptom	冷汗..symptom	
+diZsy	获得性免疫缺陷综合征..disease	头痛..symptom	发热..symptom	
+diZsy	颅咽管瘤..disease	多饮..symptom	多尿..symptom	
+diZsy	慢性支气管炎..disease	咳嗽..symptom	咳痰..symptom	
+diZsy	肾髓质囊性病..disease	多尿..symptom	多饮..symptom	
+diZsy	淀粉样变病和淀粉样关节病..disease	蛋白尿..symptom	消瘦..symptom	血尿..symptom	水肿..symptom	
+diZsy	老年人慢性肾功能衰竭..disease	蛋白尿..symptom	少尿..symptom	
+diZsy	亚急性感染性心内膜炎..disease	胸痛..symptom	发热..symptom	咳嗽..symptom	
+diZsy	静脉血栓形成..disease	疼痛..symptom	压痛..symptom	
+diZsy	感染性心内膜炎肾损害..disease	蛋白尿..symptom	血尿..symptom	
+diZsy	风湿热..disease	低热..symptom	关节痛..symptom	
+diZsy	老年人结肠憩室..disease	便血..symptom	发热..symptom	
+diZsy	感染性急性小管间质性肾炎..disease	蛋白尿..symptom	血尿..symptom	
+diZsy	乙型肝炎病毒相关性肾炎..disease	蛋白尿..symptom	血尿..symptom	
+diZsy	获得性免疫缺陷综合征的心血管损害..disease	头痛..symptom	发热..symptom	
+diZsy	小儿功能性消化不良..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diZsy	支原体肺炎..disease	咳嗽..symptom	发热..symptom	
+diZsy	小儿烧伤..disease	恶心..symptom	呕吐..symptom	
+diZsy	烟酸缺乏..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diZsy	慢性盆腔疼痛..disease	压痛..symptom	疼痛..symptom	
+diZsy	原发性甲状旁腺功能亢进症..disease	多饮..symptom	多尿..symptom	骨痛..symptom	
+diZsy	副银屑病..disease	关节痛..symptom	乏力..symptom	
+diZsy	小儿溶血尿毒综合征..disease	蛋白尿..symptom	血尿..symptom	水肿..symptom	
+diZsy	卵巢过度刺激综合征..disease	恶心..symptom	呕吐..symptom	
+diZsy	烧伤后急性消化道溃疡..disease	黑便..symptom	呕血..symptom	
+diZsy	老年人胆囊炎..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diZsy	巯甲丙脯酸肾损害..disease	蛋白尿..symptom	少尿..symptom	
+diZsy	妊娠合并尿石症..disease	腰痛..symptom	血尿..symptom	
+diZsy	急性肠系膜淋巴结炎..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diZsy	鼻疖..disease	头痛..symptom	发热..symptom	
+diZsy	桡骨干骨折..disease	疼痛..symptom	压痛..symptom	
+diZsy	寒冷性红斑..disease	出汗..symptom	疼痛..symptom	
+diZsy	新生儿呕血和便血..disease	呕血..symptom	黑便..symptom	
+diZsy	退变性骶髂关节炎..disease	疼痛..symptom	压痛..symptom	
+diZsy	尿路感染..disease	腰痛..symptom	尿频..symptom	
+diZsy	急性肾功能衰竭..disease	发热..symptom	血尿..symptom	少尿..symptom	乏力..symptom	水肿..symptom	蛋白尿..symptom	
+diLsy	老年人过敏性紫癜..disease	蛋白尿..symptom	血尿..symptom	
+diLsy	胸骨骨折..disease	疼痛..symptom	压痛..symptom	
+diLsy	胃食管反流病..disease	胸痛..symptom	咳嗽..symptom	吞咽困难..symptom	杵状指..symptom	
+diLsy	类脂性肺炎..disease	咳嗽..symptom	呼吸困难..symptom	胸痛..symptom	发热..symptom	
+diLsy	长骨骨干结核..disease	疼痛..symptom	压痛..symptom	
+diLsy	喉咽恶性肿瘤..disease	消瘦..symptom	水肿..symptom	疼痛..symptom	
+diLsy	下丘脑综合征..disease	发热..symptom	头痛..symptom	
+diLsy	阿米巴肝脓肿..disease	水肿..symptom	恶心..symptom	体重减轻..symptom	疼痛..symptom	呕吐..symptom	消瘦..symptom	出汗..symptom	压痛..symptom	
+diLsy	肺宫崎肺吸虫症..disease	咳嗽..symptom	胸痛..symptom	
+diLsy	小儿继发性腹膜炎..disease	高热..symptom	咳嗽..symptom	发热..symptom	
+diLsy	小儿先天性胆总管囊肿..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diLsy	外伤性低颅内压综合征..disease	恶心..symptom	呕吐..symptom	
+diLsy	小儿肺动脉高压..disease	呼吸困难..symptom	发绀..symptom	
+diLsy	先天性食管重复..disease	咳嗽..symptom	呼吸困难..symptom	胸痛..symptom	
+diLsy	小儿脾大..disease	黑便..symptom	呕血..symptom	
+diLsy	巨细胞病毒性葡萄膜炎..disease	头痛..symptom	发热..symptom	
+diLsy	原发或继发性肝癌..disease	黄疸..symptom	肝大..symptom	
+diLsy	颈部开放性损伤..disease	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	喉部钝挫伤..disease	疼痛..symptom	压痛..symptom	
+diLsy	肾钙乳..disease	腰痛..symptom	血尿..symptom	
+diLsy	急性化脓性脑膜炎..disease	头痛..symptom	脑膜刺激征..symptom	发热..symptom	呼吸困难..symptom	
+diLsy	妊娠合并原发性高血压..disease	血尿..symptom	水肿..symptom	蛋白尿..symptom	
+diLsy	小儿系统性红斑狼疮..disease	头痛..symptom	咳嗽..symptom	胸痛..symptom	高热..symptom	发热..symptom	呼吸困难..symptom	
+diLsy	脱屑性间质肺炎..disease	呼吸困难..symptom	发绀..symptom	杵状指..symptom	
+diLsy	高致病性禽流感病毒感染..disease	头痛..symptom	发热..symptom	咳嗽..symptom	
+diLsy	梅毒性葡萄膜炎..disease	厌食..symptom	水肿..symptom	恶心..symptom	疼痛..symptom	消瘦..symptom	
+diLsy	膀胱损伤..disease	疼痛..symptom	压痛..symptom	
+diLsy	大量胸腔积液..disease	咳嗽..symptom	呼吸困难..symptom	
+diLsy	重症肌无力样综合征..disease	呼吸困难..symptom	发热..symptom	
+diLsy	老年期抑郁症..disease	疼痛..symptom	厌食..symptom	出汗..symptom	
+diLsy	小儿多器官功能障碍综合征..disease	发热..symptom	水肿..symptom	少尿..symptom	
+diLsy	小儿克罗恩病..disease	乏力..symptom	低热..symptom	关节痛..symptom	
+diLsy	结节性脂膜炎..disease	发热..symptom	胸痛..symptom	
+diLsy	隐孢子虫病..disease	恶心..symptom	疼痛..symptom	呕吐..symptom	
+diLsy	尿道狭窄..disease	尿频..symptom	尿急..symptom	
+diLsy	脊髓灰质炎..disease	厌食..symptom	恶心..symptom	疼痛..symptom	呕吐..symptom	出汗..symptom	
+diLsy	脂肪营养不良..disease	蛋白尿..symptom	血尿..symptom	水肿..symptom	
+diLsy	胃隔膜..disease	呼吸困难..symptom	发绀..symptom	
+diLsy	结节性红斑..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	结肠憩室病..disease	压痛..symptom	恶心..symptom	疼痛..symptom	呕吐..symptom	消瘦..symptom	
+diLsy	肾淀粉样变性..disease	呕吐..symptom	疼痛..symptom	
+diLsy	小儿结核性心包炎..disease	呼吸困难..symptom	发热..symptom	
+diLsy	青光眼..disease	头痛..symptom	视力障碍..symptom	
+diLsy	肺部少见的恶性肿瘤..disease	体重减轻..symptom	水肿..symptom	
+diLsy	胃反应性淋巴增生..disease	呕血..symptom	黑便..symptom	
+diLsy	肺炎..disease	反跳痛..symptom	呼吸困难..symptom	睡眠欠佳..symptom	气促..symptom	恶心..symptom	咯血..symptom	咳痰..symptom	呕吐..symptom	咳嗽..symptom	发热..symptom	胸闷..symptom	压痛..symptom	肌紧张..symptom	休克..symptom	腹痛..symptom	咳少许白色粘液痰..symptom	高热..symptom	胸痛..symptom	
+diLsy	巴雷特食管..disease	胸痛..symptom	吞咽困难..symptom	
+diLsy	老年人腹主动脉瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	门静脉血栓形成..disease	发热..symptom	便血..symptom	
+diLsy	支原体肺炎..disease	咯血..symptom	头痛..symptom	脓痰..symptom	咳嗽..symptom	胸痛..symptom	哮鸣音..symptom	发热..symptom	呛咳..symptom	
+diLsy	肺血管炎..disease	胸痛..symptom	发热..symptom	咳嗽..symptom	呼吸困难..symptom	头痛..symptom	
+diLsy	急性胆囊炎..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	冠心病..disease	反跳痛..symptom	呼吸困难..symptom	发绀..symptom	浮肿..symptom	怒张..symptom	杂音..symptom	呕吐..symptom	咳嗽..symptom	胸闷..symptom	压痛..symptom	及..symptom	咯血..symptom	恶心..symptom	咳痰..symptom	
+diLsy	子宫内膜异位..disease	尿频..symptom	尿痛..symptom	血尿..symptom	水肿..symptom	腹痛..symptom	
+diLsy	肺疾病..disease	发绀..symptom	呼吸困难..symptom	
+diLsy	肾结核..disease	消瘦..symptom	疼痛..symptom	压痛..symptom	
+diLsy	硬脊膜外脓肿..disease	高热..symptom	咳嗽..symptom	
+diLsy	小儿功能性消化不良..disease	呕吐..symptom	恶心..symptom	
+diLsy	病毒性肝炎..disease	发热..symptom	黄疸..symptom	肝大..symptom	
+diLsy	胃切除后吸收不良综合征..disease	疼痛..symptom	消瘦..symptom	
+diLsy	乙状结肠扭转..disease	疼痛..symptom	呕吐..symptom	恶心..symptom	压痛..symptom	
+diLsy	肺孢子丝菌病..disease	疼痛..symptom	厌食..symptom	
+diLsy	委内瑞拉马脑炎..disease	头痛..symptom	发热..symptom	
+diLsy	幽门螺杆菌感染..disease	恶心..symptom	呕吐..symptom	疼痛..symptom	
+diLsy	显微镜下多血管炎..disease	关节痛..symptom	乏力..symptom	
+diLsy	老年人稳定型心绞痛..disease	胸痛..symptom	呼吸困难..symptom	大汗..symptom	
+diLsy	老年人原发性恶性高血压引起的恶性小动脉肾硬化..disease	蛋白尿..symptom	血尿..symptom	
+diLsy	心功能不全..disease	恶心..symptom	呕吐..symptom	浮肿..symptom	头晕..symptom	胸闷..symptom	气短..symptom	及..symptom	怒张..symptom	发绀..symptom	反跳痛..symptom	呼吸困难..symptom	压痛..symptom	咳嗽..symptom	咳痰..symptom	头痛..symptom	干湿啰音..symptom	胸痛..symptom	双肺呼吸音粗..symptom	
+diLsy	消散延迟性肺炎..disease	咳嗽..symptom	发热..symptom	
+diLsy	小儿囊性纤维性变..disease	发热..symptom	咳嗽..symptom	杵状指..symptom	发绀..symptom	
+diLsy	小儿无菌性脑膜炎综合征..disease	头痛..symptom	脑膜刺激征..symptom	发热..symptom	
+diLsy	小儿范科尼综合征..disease	消瘦..symptom	多尿..symptom	
+diLsy	小儿神经母细胞瘤..disease	咳嗽..symptom	发热..symptom	
+diLsy	手指屈肌腱鞘炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	妊娠合并血栓性血小板减少性紫癜..disease	关节痛..symptom	乏力..symptom	
+diLsy	小儿结节病..disease	疼痛..symptom	压痛..symptom	
+diLsy	胃平滑肌肉瘤..disease	黑便..symptom	呕血..symptom	
+diLsy	大动脉炎..disease	头痛..symptom	呼吸困难..symptom	视力障碍..symptom	胸痛..symptom	发热..symptom	
+diLsy	念珠菌病..disease	发热..symptom	咳嗽..symptom	
+diLsy	胆石症..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	腺病毒感染..disease	咳嗽..symptom	发热..symptom	
+diLsy	肺血管炎..disease	关节痛..symptom	乏力..symptom	
+diLsy	人乳头瘤病毒感染..disease	疼痛..symptom	压痛..symptom	
+diLsy	结核性脑膜炎..disease	恶心..symptom	呕吐..symptom	
+diLsy	马蹄形肾..disease	尿频..symptom	血尿..symptom	
+diLsy	起搏器综合征..disease	呼吸困难..symptom	胸痛..symptom	
+diLsy	小儿肾小管性酸中毒..disease	骨痛..symptom	多尿..symptom	
+diLsy	心房纤颤..disease	心律不齐..symptom	浮肿..symptom	胸闷..symptom	气短..symptom	黄染..symptom	压痛..symptom	干湿啰音..symptom	触及..symptom	晕厥..symptom	明显干湿啰音..symptom	明显充盈..symptom	双肺呼吸音粗..symptom	
+diLsy	合成树脂皮炎..disease	恶心..symptom	呕吐..symptom	
+diLsy	等孢球虫病..disease	恶心..symptom	呕吐..symptom	
+diLsy	盲肠旁疝..disease	恶心..symptom	呕吐..symptom	
+diLsy	获得性免疫缺陷综合征的神经系统损害..disease	呕吐..symptom	恶心..symptom	
+diLsy	炎性乳腺癌..disease	疼痛..symptom	压痛..symptom	
+diLsy	老年人慢性支气管炎..disease	呼吸困难..symptom	咳嗽..symptom	咳痰..symptom	哮鸣音..symptom	发热..symptom	
+diLsy	眼眶转移性肿瘤..disease	咳嗽..symptom	胸痛..symptom	
+diLsy	脑型疟疾..disease	头痛..symptom	发热..symptom	咳嗽..symptom	
+diLsy	喉部钝挫伤..disease	呼吸困难..symptom	咳嗽..symptom	发绀..symptom	
+diLsy	老年人心肌梗死..disease	恶心..symptom	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	G1P1..disease	头昏..symptom	腹痛..symptom	特殊..symptom	眼花..symptom	腹膨隆..symptom	硬结..symptom	腹隆..symptom	停经..symptom	红肿..symptom	切口..symptom	胎块..symptom	臭..symptom	渗液..symptom	
+diLsy	温抗体型自身免疫性溶血性贫血..disease	腰背痛..symptom	高热..symptom	
+diLsy	小儿单侧肺异常透亮综合征..disease	咳嗽..symptom	呼吸困难..symptom	
+diLsy	脚气病性心脏病..disease	呕吐..symptom	恶心..symptom	
+diLsy	前庭大腺炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	膈下脓肿..disease	消瘦..symptom	疼痛..symptom	厌食..symptom	水肿..symptom	
+diLsy	烧伤后肺部感染..disease	呼吸困难..symptom	发热..symptom	咳嗽..symptom	咳痰..symptom	发绀..symptom	
+diLsy	绝经后子宫颈癌..disease	尿频..symptom	体重减轻..symptom	血尿..symptom	水肿..symptom	
+diLsy	肾囊肿..disease	血尿..symptom	肾肿块..symptom	
+diLsy	玫瑰糠疹..disease	呕吐..symptom	恶心..symptom	
+diLsy	脑棘球蚴病..disease	恶心..symptom	呕吐..symptom	
+diLsy	血栓形成..disease	疼痛..symptom	压痛..symptom	
+diLsy	IgA肾病..disease	蛋白尿..symptom	血尿..symptom	
+diLsy	心功3级..disease	怒张..symptom	发绀..symptom	浮肿..symptom	胸闷..symptom	气短..symptom	肿大..symptom	反跳痛..symptom	黄染..symptom	干啰音..symptom	压痛..symptom	咳痰..symptom	病理性心脏杂音..symptom	触及..symptom	心音低钝..symptom	双肺呼吸音粗..symptom	
+diLsy	前列腺肉瘤..disease	疼痛..symptom	消瘦..symptom	
+diLsy	流感病毒肺炎..disease	高热..symptom	发热..symptom	咳嗽..symptom	头痛..symptom	
+diLsy	系统性血管炎所致神经损害..disease	压痛..symptom	疼痛..symptom	
+diLsy	胃石症..disease	恶心..symptom	消瘦..symptom	疼痛..symptom	呕吐..symptom	压痛..symptom	
+diLsy	女性性早熟..disease	头痛..symptom	视力障碍..symptom	
+diLsy	基底动脉尖综合征..disease	胸闷..symptom	睡眠欠佳..symptom	咳嗽..symptom	气促..symptom	咳痰..symptom	头昏..symptom	
+diLsy	耻骨炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	嵌顿性腹股沟斜疝..disease	恶心..symptom	疼痛..symptom	呕吐..symptom	
+diLsy	老年人结肠憩室..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	戊型病毒性肝炎..disease	头痛..symptom	发热..symptom	
+diLsy	老年人糖尿病周围神经病..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diLsy	汉坦病毒肺综合征..disease	头痛..symptom	发热..symptom	少尿..symptom	咳嗽..symptom	乏力..symptom	
+diLsy	查加斯病..disease	出汗..symptom	疼痛..symptom	呕吐..symptom	
+diLsy	阿司匹林诱发哮喘..disease	恶心..symptom	呕吐..symptom	
+diLsy	小儿肾静脉血栓形成..disease	蛋白尿..symptom	少尿..symptom	发热..symptom	血尿..symptom	
+diLsy	精囊炎..disease	尿急..symptom	尿频..symptom	尿痛..symptom	血尿..symptom	
+diLsy	小儿近端肾小管酸中毒..disease	恶心..symptom	呕吐..symptom	
+diLsy	高血压病2级..disease	恶心..symptom	呕吐..symptom	浮肿..symptom	胸闷..symptom	发绀..symptom	及..symptom	杂音..symptom	反跳痛..symptom	压痛..symptom	咳嗽..symptom	咳痰..symptom	干湿啰音..symptom	
+diLsy	痉挛性肠梗阻..disease	恶心..symptom	呕吐..symptom	
+diLsy	阴道蚂蟥叮吸..disease	头痛..symptom	发热..symptom	
+diLsy	休克..disease	发绀..symptom	意识障碍及衰竭..symptom	
+diLsy	小儿指甲-髌骨综合征..disease	蛋白尿..symptom	血尿..symptom	水肿..symptom	
+diLsy	外阴上皮样肉瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	寰椎骨折..disease	疼痛..symptom	压痛..symptom	
+diLsy	下颌第三磨牙冠周炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	梅尼埃病..disease	发作性眩晕..symptom	耳鸣..symptom	听力减退..symptom	眼球震颤..symptom	
+diLsy	小儿烟酸缺乏病..disease	呕吐..symptom	恶心..symptom	
+diLsy	老年人肺炎..disease	呼吸困难..symptom	咳嗽..symptom	血压下降..symptom	高热..symptom	胸痛..symptom	发热..symptom	咳痰..symptom	
+diLsy	胃溃疡性穿孔..disease	呕吐..symptom	恶心..symptom	
+diLsy	病毒性脑膜炎..disease	呕吐..symptom	恶心..symptom	
+diLsy	脑干肿瘤..disease	呕吐..symptom	恶心..symptom	
+diLsy	淹溺..disease	呼吸困难..symptom	咳嗽..symptom	发绀..symptom	
+diLsy	闭经..disease	消瘦..symptom	疼痛..symptom	压痛..symptom	
+diLsy	肝硬化性肾损害..disease	血尿..symptom	蛋白尿..symptom	水肿..symptom	多尿..symptom	消瘦..symptom	多饮..symptom	
+diLsy	细菌性心包炎..disease	呼吸困难..symptom	胸痛..symptom	
+diLsy	尿路感染..disease	呕吐..symptom	反跳痛..symptom	发热..symptom	压痛..symptom	咳嗽..symptom	
+diLsy	腕关节结核..disease	疼痛..symptom	压痛..symptom	
+diLsy	淋巴瘤性乳头状囊腺瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	小儿烹调综合征..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diLsy	小儿一氧化碳中毒..disease	呕吐..symptom	恶心..symptom	
+diLsy	纵隔非霍奇金淋巴瘤..disease	呼吸困难..symptom	胸痛..symptom	咳嗽..symptom	
+diLsy	晕厥..disease	血压下降..symptom	咳嗽..symptom	呼吸困难..symptom	胸痛..symptom	苍白..symptom	发绀..symptom	
+diLsy	慢性肾功能衰竭..disease	骨痛..symptom	多尿..symptom	
+diLsy	小肠腺癌..disease	恶心..symptom	消瘦..symptom	疼痛..symptom	呕吐..symptom	压痛..symptom	
+diLsy	颅底凹陷症..disease	发作性眩晕..symptom	耳鸣..symptom	
+diLsy	特发性大网膜节段性梗死..disease	恶心..symptom	疼痛..symptom	压痛..symptom	厌食..symptom	呕吐..symptom	
+diLsy	小肠原发性恶性淋巴瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	局限性硬皮病..disease	消瘦..symptom	关节痛..symptom	出汗..symptom	水肿..symptom	乏力..symptom	
+diLsy	三尖瓣狭窄..disease	呼吸困难..symptom	发绀..symptom	
+diLsy	牛带绦虫病..disease	呕吐..symptom	恶心..symptom	
+diLsy	小儿远端肾小管酸中毒..disease	多尿..symptom	多饮..symptom	
+diLsy	先天性巨结肠..disease	消瘦..symptom	水肿..symptom	
+diLsy	胃梅毒..disease	恶心..symptom	呕吐..symptom	疼痛..symptom	消瘦..symptom	
+diLsy	脓性指头炎..disease	头痛..symptom	发热..symptom	
+diLsy	妊娠合并巨幼红细胞性贫血..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diLsy	结肠憩室病..disease	发热..symptom	便血..symptom	里急后重..symptom	
+diLsy	小儿支原体肺炎..disease	胸痛..symptom	呼吸困难..symptom	发热..symptom	头痛..symptom	咳嗽..symptom	
+diLsy	老年人肺结核..disease	胸痛..symptom	发热..symptom	咳嗽..symptom	咳痰..symptom	
+diLsy	脑型肺吸虫病..disease	胸痛..symptom	发热..symptom	头痛..symptom	咳嗽..symptom	
+diLsy	颅后窝室管膜瘤..disease	疼痛..symptom	呕吐..symptom	
+diLsy	枢椎齿突骨折..disease	疼痛..symptom	压痛..symptom	
+diLsy	缩窄性心包炎..disease	呼吸困难..symptom	胸痛..symptom	发热..symptom	
+diLsy	精囊结石..disease	尿频..symptom	尿急..symptom	
+diLsy	小儿戈谢病..disease	发绀..symptom	呼吸困难..symptom	咳嗽..symptom	
+diLsy	小儿潮红综合征..disease	恶心..symptom	呕吐..symptom	
+diLsy	老年人细菌性脑膜炎..disease	低热..symptom	关节痛..symptom	
+diLsy	老年人胆囊炎..disease	恶心..symptom	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	软骨黏液样纤维瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	肺蛔虫病..disease	呼吸困难..symptom	发热..symptom	头痛..symptom	胸痛..symptom	
+diLsy	先天性肠闭锁..disease	消瘦..symptom	水肿..symptom	
+diLsy	小儿热带嗜酸性粒细胞增多症..disease	头痛..symptom	呼吸困难..symptom	咳嗽..symptom	胸痛..symptom	哮鸣音..symptom	发热..symptom	
+diLsy	医用药物中毒所致的精神障碍..disease	发热..symptom	头痛..symptom	
+diLsy	结核性关节炎..disease	盗汗..symptom	关节痛..symptom	低热..symptom	乏力..symptom	消瘦..symptom	纳差..symptom	
+diLsy	其他弧菌感染..disease	呕吐..symptom	恶心..symptom	
+diLsy	肩关节周围炎..disease	压痛..symptom	疼痛..symptom	
+diLsy	下肢静脉血栓形成..disease	疼痛..symptom	压痛..symptom	
+diLsy	妊娠合并尿石症..disease	疼痛..symptom	压痛..symptom	
+diLsy	性病相关性胃肠道感染..disease	关节痛..symptom	消瘦..symptom	
+diLsy	自发性食管破裂..disease	呼吸困难..symptom	血压下降..symptom	胸痛..symptom	发绀..symptom	
+diLsy	支气管肺癌..disease	一侧胸痛..symptom	咯血..symptom	呼吸困难..symptom	发热..symptom	胸痛..symptom	呛咳..symptom	杵状指..symptom	咳嗽..symptom	
+diLsy	小儿食管化学性烧伤..disease	呕吐..symptom	疼痛..symptom	
+diLsy	特发性嗜酸性粒细胞增多综合征..disease	呼吸困难..symptom	胸痛..symptom	发热..symptom	咳嗽..symptom	
+diLsy	短肠综合征..disease	消瘦..symptom	体重减轻..symptom	水肿..symptom	少尿..symptom	乏力..symptom	
+diLsy	白血病视网膜病变..disease	发热..symptom	便血..symptom	
+diLsy	胆囊结石嵌顿..disease	胸闷..symptom	咳嗽..symptom	阵发性串咳..symptom	气促..symptom	纳差..symptom	咳少许白色粘痰..symptom	发热..symptom	咳痰..symptom	咳少许白色粘液痰..symptom	
+diLsy	十二指肠溃疡..disease	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	老年人肝硬化..disease	黑便..symptom	呕血..symptom	
+diLsy	蝎螫伤..disease	头痛..symptom	发热..symptom	
+diLsy	老年人高血压..disease	呕吐..symptom	恶心..symptom	
+diLsy	腹痛..disease	呕吐..symptom	疼痛..symptom	
+diLsy	躯体形式障碍..disease	胸痛..symptom	呼吸困难..symptom	
+diLsy	心包转移瘤..disease	呼吸困难..symptom	胸痛..symptom	咳嗽..symptom	
+diLsy	回归热型结节性非化脓性脂膜炎..disease	恶心..symptom	疼痛..symptom	厌食..symptom	压痛..symptom	
+diLsy	结节性液化性脂膜炎..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	软组织肉瘤..disease	呼吸困难..symptom	胸痛..symptom	
+diLsy	卡他莫拉菌感染..disease	呼吸困难..symptom	咳痰..symptom	咳嗽..symptom	
+diLsy	老年人颈性眩晕..disease	耳鸣..symptom	发作性眩晕..symptom	
+diLsy	绝经..disease	尿频..symptom	尿急..symptom	
+diLsy	小儿限制型心肌病..disease	呼吸困难..symptom	咳嗽..symptom	发绀..symptom	胸痛..symptom	
+diLsy	伤寒..disease	隐痛..symptom	乏力..symptom	
+diLsy	隐球菌病..disease	呕吐..symptom	恶心..symptom	
+diLsy	破伤风..disease	高热..symptom	呼吸困难..symptom	咳嗽..symptom	发绀..symptom	
+diLsy	绞窄性肠梗阻..disease	腹痛..symptom	休克..symptom	
+diLsy	诺卡菌性巩膜炎..disease	咳嗽..symptom	呼吸困难..symptom	发热..symptom	
+diLsy	淀粉样变病和淀粉样关节病..disease	发热..symptom	呼吸困难..symptom	
+diLsy	胆道蛔虫病与肝蛔虫病..disease	疼痛..symptom	呕吐..symptom	
+diLsy	急性腰背部扭伤..disease	疼痛..symptom	压痛..symptom	
+diLsy	病毒性脑膜炎..disease	头痛..symptom	脑膜刺激征..symptom	发热..symptom	
+diLsy	脑膜癌病..disease	头痛..symptom	脑膜刺激征..symptom	
+diLsy	妊娠合并心室间隔缺损..disease	咳嗽..symptom	杵状指..symptom	发绀..symptom	
+diLsy	日光皮炎..disease	恶心..symptom	呕吐..symptom	
+diLsy	小脑扁桃体下疝畸形..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	
+diLsy	血管损伤..disease	胸痛..symptom	苍白..symptom	呼吸困难..symptom	
+diLsy	复发性多发性软骨炎伴发的葡萄膜炎..disease	发热..symptom	咳嗽..symptom	呼吸困难..symptom	
+diLsy	小儿哮喘..disease	呼吸困难..symptom	咳嗽..symptom	哮鸣音..symptom	咳痰..symptom	
+diLsy	沙眼..disease	头痛..symptom	腰背痛..symptom	呼吸困难..symptom	咳嗽..symptom	高热..symptom	发绀..symptom	发热..symptom	
+diLsy	急性肾盂肾炎..disease	高热..symptom	腰背痛..symptom	
+diLsy	老年人甲状腺功能亢进症..disease	消瘦..symptom	体重减轻..symptom	水肿..symptom	出汗..symptom	
+diLsy	产后出血..disease	恶心..symptom	呕吐..symptom	
+diLsy	肾血管畸形与压迫..disease	血尿..symptom	蛋白尿..symptom	尿痛..symptom	腰痛..symptom	尿频..symptom	尿急..symptom	排尿困难..symptom	
+diLsy	胰岛素瘤..disease	呕吐..symptom	恶心..symptom	
+diLsy	结核性心包炎..disease	消瘦..symptom	水肿..symptom	
+diLsy	星形细胞瘤..disease	呕吐..symptom	疼痛..symptom	
+diLsy	绝经后子宫内膜癌..disease	疼痛..symptom	消瘦..symptom	
+diLsy	恙虫病..disease	头痛..symptom	呼吸困难..symptom	咳嗽..symptom	高热..symptom	发绀..symptom	发热..symptom	
+diLsy	寻常痤疮..disease	头痛..symptom	发热..symptom	
+diLsy	某些药物或化学物质中毒..disease	发绀..symptom	意识障碍及衰竭..symptom	
+diLsy	脂蛋白肾小球病..disease	血尿..symptom	蛋白尿..symptom	
+diLsy	老年人椎基底动脉供血不足..disease	呕吐..symptom	恶心..symptom	
+diLsy	克山病..disease	呕吐..symptom	恶心..symptom	
+diLsy	布氏杆菌性关节炎..disease	头痛..symptom	发热..symptom	
+diLsy	肋骨骨折..disease	咳嗽..symptom	呼吸困难..symptom	发绀..symptom	
+diLsy	支气管恶性肿瘤..disease	睡眠欠佳..symptom	胸闷..symptom	咳嗽..symptom	乏力..symptom	气促..symptom	纳差..symptom	咳少许白色粘痰..symptom	咳痰..symptom	胸痛..symptom	咳少许白色粘液痰..symptom	
+diLsy	铬及其化合物引起的皮肤病..disease	疼痛..symptom	消瘦..symptom	
+diLsy	麦格综合征..disease	胸痛..symptom	咳嗽..symptom	
+diLsy	妊娠性急性阑尾炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	颈交感神经麻痹综合征..disease	疼痛..symptom	呕吐..symptom	出汗..symptom	
+diLsy	高钾血症..disease	恶心..symptom	呕吐..symptom	
+diLsy	胎盘早剥..disease	恶心..symptom	疼痛..symptom	呕吐..symptom	出汗..symptom	压痛..symptom	
+diLsy	儿童鼻窦炎..disease	呕吐..symptom	恶心..symptom	
+diLsy	痛性青紫综合征..disease	恶心..symptom	呕吐..symptom	
+diLsy	细菌协同性坏疽..disease	疼痛..symptom	压痛..symptom	
+diLsy	幽门梗阻..disease	厌食..symptom	水肿..symptom	疼痛..symptom	呕吐..symptom	消瘦..symptom	
+diLsy	肺炎克雷白杆菌肺炎..disease	恶心..symptom	呕吐..symptom	
+diLsy	卵巢肿瘤..disease	呕吐..symptom	恶心..symptom	
+diLsy	眼眶蜂窝织炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	小儿细菌性痢疾..disease	恶心..symptom	呕吐..symptom	
+diLsy	小儿尿路感染..disease	腰痛..symptom	排尿不尽..symptom	尿急..symptom	尿频..symptom	
+diLsy	小儿急性间歇性卟啉病..disease	恶心..symptom	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	单侧肺气肿..disease	咳痰..symptom	呼吸困难..symptom	咳嗽..symptom	发绀..symptom	
+diLsy	卵巢癌..disease	明显变化..symptom	异常杂音..symptom	肿大..symptom	干湿罗音..symptom	反跳痛..symptom	移动性浊音..symptom	异常包块..symptom	纵行长约18cm手术疤痕..symptom	明显压痛..symptom	贫血貌..symptom	大网..symptom	阴道断端..symptom	颈静脉怒张..symptom	包块..symptom	病理反射..symptom	大..symptom	
+diLsy	白塞病..disease	血尿..symptom	水肿..symptom	蛋白尿..symptom	
+diLsy	马拉色菌病..disease	呕吐..symptom	恶心..symptom	
+diLsy	髌骨不稳定..disease	疼痛..symptom	压痛..symptom	
+diLsy	咽异感症..disease	咳痰..symptom	咳嗽..symptom	
+diLsy	老年人胆石症..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	嗜酸性粒细胞增多-肌痛综合征..disease	呼吸困难..symptom	咳嗽..symptom	
+diLsy	食管息肉..disease	消瘦..symptom	疼痛..symptom	呕吐..symptom	
+diLsy	蛲虫病..disease	呕吐..symptom	恶心..symptom	
+diLsy	强直性脊柱炎..disease	活动受限..symptom	腰背痛..symptom	
+diLsy	大肠癌..disease	便血..symptom	里急后重..symptom	
+diLsy	厌氧菌感染..disease	发热..symptom	头痛..symptom	
+diLsy	军团病..disease	头痛..symptom	少尿..symptom	咳嗽..symptom	胸痛..symptom	高热..symptom	发热..symptom	乏力..symptom	
+diLsy	老年人颈性眩晕..disease	呕吐..symptom	恶心..symptom	
+diLsy	肺炎链球菌性肺炎..disease	呕吐..symptom	疼痛..symptom	压痛..symptom	
+diLsy	海胆刺伤及海胆肉芽肿..disease	疼痛..symptom	压痛..symptom	
+diLsy	肾上腺皮质功能减退症..disease	恶心..symptom	疼痛..symptom	
+diLsy	嗜酸性粒细胞性膀胱炎..disease	尿频..symptom	排尿困难..symptom	尿痛..symptom	血尿..symptom	尿急..symptom	
+diLsy	肠出血..disease	胸闷..symptom	咳嗽..symptom	气促..symptom	黑便..symptom	纳差..symptom	咳痰..symptom	
+diLsy	外伤性乳房血肿..disease	疼痛..symptom	压痛..symptom	
+diLsy	非洲锥虫病..disease	压痛..symptom	乏力..symptom	关节痛..symptom	水肿..symptom	疼痛..symptom	消瘦..symptom	
+diLsy	巴特综合征..disease	多尿..symptom	消瘦..symptom	多饮..symptom	
+diLsy	夏伊-德雷格综合征..disease	尿频..symptom	尿急..symptom	
+diLsy	新生儿窒息..disease	发绀..symptom	呕吐..symptom	高..symptom	胀..symptom	呼吸困难..symptom	胎膜早破..symptom	反应差..symptom	尖叫..symptom	气促..symptom	发热..symptom	青紫..symptom	呻吟..symptom	原始反射减弱..symptom	双肺呼吸音稍粗..symptom	黄染..symptom	啰音..symptom	胎儿宫内窘迫..symptom	抽搐..symptom	腹胀..symptom	
+diLsy	上腔静脉综合征..disease	呼吸困难..symptom	咳嗽..symptom	胸痛..symptom	吞咽困难..symptom	
+diLsy	小儿白塞病..disease	胸痛..symptom	脑膜刺激征..symptom	发热..symptom	头痛..symptom	
+diLsy	急性胰腺炎..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	纵隔副神经节起源的肿瘤..disease	头痛..symptom	发热..symptom	
+diLsy	类鼻疽..disease	高热..symptom	发热..symptom	咳嗽..symptom	胸痛..symptom	
+diLsy	蔗尘肺..disease	恶心..symptom	呕吐..symptom	
+diLsy	肱骨外上髁炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	妊娠呕吐..disease	恶心..symptom	呕吐..symptom	
+diLsy	溃疡性结肠炎..disease	便血..symptom	发热..symptom	里急后重..symptom	
+diLsy	莱特雷尔-西韦病..disease	呼吸困难..symptom	咳嗽..symptom	发热..symptom	
+diLsy	心律失常..disease	蛋白尿..symptom	少尿..symptom	乏力..symptom	
+diLsy	异物性食管穿孔..disease	咳嗽..symptom	发热..symptom	
+diLsy	放射性肾炎..disease	蛋白尿..symptom	血尿..symptom	水肿..symptom	
+diLsy	SARS的胃肠道感染..disease	恶心..symptom	呕吐..symptom	
+diLsy	抗磷脂抗体综合征..disease	血尿..symptom	水肿..symptom	蛋白尿..symptom	
+diLsy	软骨母细胞瘤..disease	疼痛..symptom	压痛..symptom	
+diLsy	妊娠期急性肾功能衰竭..disease	消瘦..symptom	腹水..symptom	水肿..symptom	少尿..symptom	乏力..symptom	多尿..symptom	
+diLsy	老年急性动脉栓塞..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	维生素B1缺乏神经病..disease	体重减轻..symptom	水肿..symptom	
+diLsy	曲霉病..disease	头痛..symptom	视力障碍..symptom	咳嗽..symptom	胸痛..symptom	咳痰..symptom	发热..symptom	
+diLsy	肠系膜囊肿..disease	便血..symptom	腹部肿块..symptom	发热..symptom	
+diLsy	进行性骨干发育不良..disease	头痛..symptom	视力障碍..symptom	
+diLsy	老年人支气管哮喘..disease	呼吸困难..symptom	咳嗽..symptom	哮鸣音..symptom	咳痰..symptom	发绀..symptom	
+diLsy	颌面部放线菌病..disease	发热..symptom	咳嗽..symptom	咳痰..symptom	
+diLsy	老年人原发性肝癌..disease	咳嗽..symptom	胸痛..symptom	呼吸困难..symptom	发热..symptom	
+diLsy	脊髓压迫症..disease	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	淋病..disease	尿频..symptom	血尿..symptom	水肿..symptom	排尿困难..symptom	尿痛..symptom	尿急..symptom	
+diLsy	高尿酸血症肾病..disease	呕吐..symptom	恶心..symptom	
+diLsy	特发性面神经瘫痪..disease	疼痛..symptom	压痛..symptom	
+diLsy	复发性多软骨炎性巩膜炎..disease	蛋白尿..symptom	血尿..symptom	
+diLsy	输尿管结石..disease	尿痛..symptom	尿频..symptom	腰痛..symptom	血尿..symptom	尿急..symptom	
+diLsy	慢性阻塞性肺病伴有急性加重..disease	胸闷..symptom	睡眠欠佳..symptom	咳嗽..symptom	气促..symptom	咳少许白色粘痰..symptom	咳痰..symptom	咳少许白色粘液痰..symptom	喘息..symptom	
+diLsy	急性间歇性卟啉病..disease	恶心..symptom	疼痛..symptom	压痛..symptom	呕吐..symptom	
+diLsy	甲状旁腺功能亢进性心肌病..disease	呕吐..symptom	恶心..symptom	
+diLsy	腹水..disease	消瘦..symptom	颈静脉怒张..symptom	水肿..symptom	
+diLsy	小儿原发性血小板增多症..disease	呕吐..symptom	恶心..symptom	疼痛..symptom	压痛..symptom	
+diLsy	梅毒性葡萄膜炎..disease	发热..symptom	头痛..symptom	
+diLsy	妊娠合并类风湿关节炎..disease	恶心..symptom	疼痛..symptom	出汗..symptom	压痛..symptom	
+diLsy	慢性盆腔炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	肝硬化..disease	呕吐..symptom	恶心..symptom	
+diLsy	大网膜扭转..disease	呕吐..symptom	恶心..symptom	
+diLsy	慢性阑尾炎..disease	疼痛..symptom	压痛..symptom	
+diLsy	心血管疾病伴发的精神障碍..disease	恶心..symptom	疼痛..symptom	
+diLsy	颈椎骨折..disease	恶心..symptom	呕吐..symptom	
+diLsy	小儿假膜性肠炎..disease	呕吐..symptom	恶心..symptom	
+diLsy	广泛性焦虑障碍..disease	恶心..symptom	疼痛..symptom	
+diLsy	老年人原发性肝癌..disease	压痛..symptom	恶心..symptom	疼痛..symptom	呕吐..symptom	消瘦..symptom	
+diLsy	气管及支气管发育障碍..disease	呼吸困难..symptom	发热..symptom	发绀..symptom	
+diLsy	泌尿生殖系真菌病..disease	尿痛..symptom	腰痛..symptom	少尿..symptom	发热..symptom	尿频..symptom	
+diLsy	皮肤黏膜淋巴结综合征..disease	疼痛..symptom	厌食..symptom	压痛..symptom	呕吐..symptom	
+diLsy	乳糜尿..disease	钝痛..symptom	乏力..symptom	
+syRdi	反射性呕吐..symptom	消化性溃疡..disease	肝硬化..disease	
+syRdi	咯血..symptom	肺结核..disease	支气管扩张..disease	
+syRdi	尿频..symptom	尿路感染..disease	神经源性膀胱..disease	前列腺增生..disease	
+syRdi	抑郁..symptom	失眠..disease	老年人肠易激综合征..disease	
+syRdi	瓣膜增厚..symptom	二尖瓣狭窄..disease	二尖瓣闭锁不全..disease	
+syRdi	尿频..symptom	结肠癌..disease	肠梗阻..disease	
+syRdi	咳痰..symptom	慢性阻塞性肺病伴有急性加重..disease	低钾血症..disease	
+syRdi	咽部紧缩感..symptom	不稳定型心绞痛..disease	冠心病..disease	高血压病史..disease	
+syRdi	鳞状上皮..symptom	小儿食管化学性烧伤..disease	食管化学性烧伤..disease	
+syRdi	心慌..symptom	贫血..disease	结肠癌..disease	胃癌..disease	肠梗阻..disease	
+syRdi	右上腹痛..symptom	急性胆囊炎..disease	胆囊结石..disease	
+syRdi	反复感染..symptom	支气管扩张..disease	老年人支气管扩张..disease	慢性肺源性心脏病..disease	小儿继发性免疫缺陷病..disease	
+syRdi	水疱..symptom	天花..disease	褥疮..disease	
+syRdi	胸闷..symptom	系统性红斑狼疮..disease	肝硬化失代偿期..disease	肝硬化..disease	肺炎..disease	
+syRdi	尿痛..symptom	肾盂肾炎..disease	肝硬化..disease	
+syRdi	外伤..symptom	眼球运动障碍..disease	成人类风湿性关节炎性巩膜炎..disease	眶骨髓炎..disease	眼眶脂肪肉瘤..disease	
+syRdi	腹痛..symptom	肝硬化..disease	肝炎..disease	消化性溃疡..disease	
+syRdi	咳中..symptom	呼吸衰竭..disease	支气管哮喘，非危重..disease	低钾血症..disease	
+syRdi	胸骨后压榨样疼痛..symptom	不稳定型心绞痛..disease	冠心病..disease	
+syRdi	血小板少..symptom	贫血..disease	再生障碍性贫血..disease	
+syRdi	多汗症..symptom	妊娠合并淋巴瘤..disease	恶性淋巴瘤..disease	
+syRdi	脑缺氧..symptom	小儿脑水肿与颅内高压综合征..disease	颅内高压综合征..disease	
+syRdi	腹胀..symptom	二尖瓣狭窄..disease	心律失常..disease	房性期前收缩..disease	心肌炎..disease	
+syRdi	疼痛..symptom	便秘..disease	寒冷性红斑..disease	
+syRdi	血糖升高..symptom	高渗性非酮症糖尿病昏迷..disease	1型糖尿病..disease	
+syRdi	胸骨后疼痛..symptom	不稳定型心绞痛..disease	急性心肌梗死..disease	
+syRdi	充血..symptom	副溶血性弧菌食物中毒..disease	腹泻..disease	
+syRdi	腹水..symptom	便秘..disease	成人腹股沟斜疝..disease	
+syRdi	气短..symptom	二尖瓣狭窄..disease	扩张型心肌病..disease	不稳定型心绞痛..disease	心包积液..disease	心律失常..disease	急性心肌梗死..disease	心肌病..disease	心肌炎..disease	
+syRdi	运动障碍..symptom	小儿肺不张..disease	肺不张..disease	小儿支气管扩张..disease	
+syRdi	多尿..symptom	高尿酸血症肾病..disease	糖尿病..disease	
+syRdi	刺激性气味易发..symptom	呼吸衰竭..disease	呼吸性碱中毒..disease	支气管哮喘，非危重..disease	低钾血症..disease	
+syRdi	腹痛..symptom	慢性胆囊炎..disease	胰腺炎..disease	胆石症..disease	慢性肾功能衰竭..disease	溶血性贫血..disease	胆囊结石..disease	
+syRdi	囊肿..symptom	肝棘球蚴病..disease	胆汁性腹膜炎..disease	
+syRdi	失血..symptom	急性肾功能衰竭..disease	新生儿急性肾功能衰竭..disease	肺水肿..disease	
+syRdi	出汗..symptom	急性心肌梗死..disease	心律失常..disease	小儿甲状腺功能亢进症..disease	不稳定型心绞痛..disease	扩张型心肌病..disease	
+syRdi	干热..symptom	小儿结核性心包炎..disease	结核性心包炎..disease	
+syRdi	反流..symptom	妊娠合并急性胆囊炎..disease	急性梗阻性化脓性胆管炎..disease	急性胆囊炎..disease	急性胰腺炎..disease	老年人急性胰腺炎..disease	胆汁性腹膜炎..disease	
+-1diZsy	腹壁挫伤..disease	血尿..symptom	喘息..symptom
+-1diZsy	肠系膜静脉血栓形成..disease	呕吐..symptom	挑食..symptom
+-1diZsy	希恩综合征..disease	糖尿..symptom	发绀..symptom
+-1diZsy	脑血管畸形..disease	呼吸困难..symptom	头盆不称..symptom	月经异常..symptom
+-1diZsy	锑末沉着症..disease	剧烈咳嗽..symptom	发热..symptom	心率缓慢..symptom
+-1diZsy	尾神经丛痛..disease	呼吸困难..symptom	劳力性胸闷..symptom	蠕动波..symptom
+-1diZsy	小儿成人型慢性粒细胞白血病..disease	恶心..symptom	呕吐..symptom	触及..symptom	及..symptom
+-1diZsy	门静脉高压..disease	多饮..symptom	咳黄色脓痰..symptom
+-1diZsy	皮肤黏膜淋巴结综合征..disease	蛋白尿..symptom	肌麻痹..symptom
+-1diZsy	肾积水..disease	呕血..symptom	间歇性跛行..symptom
+-1diZsy	生殖器念珠菌病..disease	呼吸困难..symptom	低蛋白血症..symptom	咳少许黄色粘痰..symptom
+-1diZsy	急性感染..disease	晕厥..symptom	双下肢轻微浮肿..symptom	发热..symptom
+-1diZsy	胃结核..disease	咳黄痰..symptom	头晕..symptom	黑便..symptom	眼震..symptom
+-1diZsy	成人型慢性粒细胞白血病..disease	瓣膜增厚..symptom	头痛..symptom
+-1diZsy	结肠扭转..disease	多饮..symptom	异常..symptom
+-1diZsy	胰腺癌..disease	间歇性跛行..symptom	咳嗽..symptom
+-1diZsy	放线菌病..disease	多尿..symptom	反复感染..symptom
+-1diZsy	小儿呼吸道合胞病毒肺炎..disease	蛋白尿..symptom	慢性头痛..symptom	血尿..symptom	脐带扭转..symptom
+-1diZsy	妊娠合并偏头痛..disease	蛋白尿..symptom	寒战..symptom
+-1diZsy	腭裂..disease	肉眼血尿..symptom	焦虑..symptom	胸痛..symptom
+-1diZsy	婴幼儿外阴阴道炎..disease	疼痛..symptom	视力障碍..symptom
+-1diZsy	自发性脑室内出血..disease	蛋白尿..symptom	低蛋白血症..symptom
+-1diZsy	特发性腹膜后纤维化..disease	脑膜刺激征..symptom	关节痛..symptom
+-1diZsy	复发性多软骨炎性巩膜炎..disease	寒冷..symptom	发热..symptom
+-1diZsy	神经系统结节病..disease	咳白色粘液痰..symptom	血尿..symptom
+-1diZsy	复发性无菌性脑膜炎..disease	蛋白尿..symptom	发作性眩晕..symptom
+-1diZsy	乙型肝炎病毒性关节炎..disease	急性腹泻..symptom	头痛..symptom
+-1diZsy	肘管综合征..disease	呕吐..symptom	颜面及双下肢水肿..symptom	发绀..symptom
+-1diZsy	肝硬化失代偿期..disease	咳嗽..symptom	水疱..symptom
+-1diZsy	小儿支气管肺发育不全..disease	恶心..symptom	发作性呼吸困难..symptom
+-1diZsy	小儿结节性多动脉炎..disease	恶心..symptom	白色粘液痰..symptom	异常分泌物..symptom
+-1diZsy	获得性免疫缺陷综合征的神经系统损害..disease	癫痫发作..symptom	疼痛..symptom
+-1diZsy	松毛虫性骨关节炎..disease	二便失禁..symptom	骨痛..symptom	浮肿..symptom
+-1diZsy	右肺恶性肿瘤..disease	关节痛..symptom	畸形..symptom
+-1diZsy	非结核性分枝杆菌病..disease	明显包块..symptom	血尿..symptom	一般状态较差..symptom
+-1diZsy	外伤性脾破裂..disease	呕吐..symptom	上腹部不适..symptom
+-1diZsy	软骨肉瘤..disease	痰量少..symptom	黑便..symptom
+-1diZsy	神经病性关节病..disease	恶心..symptom	呕吐..symptom	光过敏..symptom	咳黄色脓痰..symptom
+-1diZsy	痛性肥胖病..disease	蛋白尿..symptom	阵发性串咳..symptom
+-1diZsy	缺血性肠绞痛..disease	厌食..symptom	血尿..symptom
+-1diZsy	老年人糖尿病酮症酸中毒..disease	呕吐..symptom	疼痛..symptom	血压下降..symptom	脾大..symptom
+-1diZsy	老年人风湿性心脏病..disease	头痛..symptom	腹壁肌紧张..symptom
+-1diZsy	石油、煤焦油、页岩油及其分馏产物所致的皮肤病..disease	疼痛..symptom	神经功能紊乱症状..symptom
+-1diZsy	小儿加压素分泌过多综合征..disease	宫缩..symptom	疼痛..symptom
+-1diZsy	老年人嗜铬细胞瘤危象..disease	黑便..symptom	躁动..symptom
+-1diZsy	卵巢癌..disease	长期低热..symptom	压痛..symptom
+-1diZsy	小儿淋巴细胞间质性肺炎..disease	腰痛..symptom	纤维组织增生..symptom
+-1diZsy	棉屑沉着病..disease	间歇性跛行..symptom	发热..symptom	水肿..symptom	反流..symptom	刺痛..symptom	血尿..symptom
+-1diLsy	横纹肌肉瘤..disease	蛋白尿..symptom	结节..symptom
+-1diLsy	化脓性颌骨骨髓炎..disease	压痛..symptom	乏力症状..symptom
+-1diLsy	颈淋巴结炎..disease	肝掌..symptom	吞咽困难..symptom	皲裂..symptom	杵状指..symptom
+-1diLsy	药物性皮炎..disease	呼吸困难..symptom	红肿..symptom	出汗..symptom	胸痛..symptom
+-1diLsy	晶状体膨胀所致青光眼..disease	压痛..symptom	劳力性气促..symptom
+-1diLsy	猩红热..disease	衰弱..symptom	疼痛..symptom	皮肤黄染..symptom
+-1diLsy	盆腔脓肿..disease	多器官损害..symptom	发热..symptom
+-1diLsy	肱骨内髁骨折..disease	恶心..symptom	呕吐..symptom	明显扩大..symptom	水肿..symptom	二便失禁..symptom	耳鸣..symptom	疼痛..symptom	烦渴多饮..symptom
+-1diLsy	胼胝..disease	咳嗽..symptom	腹水..symptom
+-1diLsy	咽部及颈部食管闭合性损伤..disease	大量蛋白尿..symptom	发热..symptom	大量泡沫痰..symptom
+-1diLsy	肺梗死..disease	恶心..symptom	痰中带血..symptom	咳血..symptom
+-1diLsy	老年人甲状腺功能亢进症..disease	恶心..symptom	多汗症..symptom
+-1diLsy	肩关节周围炎..disease	呼吸困难..symptom	肝大..symptom
+-1diLsy	巨吻棘头虫病..disease	胸骨后压榨样疼痛..symptom	皮肤萎缩..symptom	胸痛..symptom
+-1diLsy	猴痘..disease	呕血..symptom	心慌..symptom
+-1diLsy	尿道结核..disease	尿流细..symptom	头痛..symptom
+-1diLsy	病态窦房结综合征..disease	黄疸..symptom	胸闷症状..symptom
+-1diLsy	低镁血症..disease	呕吐..symptom	抵抗力下降..symptom	脓痰..symptom
+-1diLsy	盆腔脓肿..disease	口渴..symptom	压痛..symptom
+-1diLsy	急性细支气管炎..disease	血尿..symptom	疲劳..symptom
+-1diLsy	小儿原发性腹膜炎..disease	高脂血症..symptom	震颤..symptom	脑膜刺激征..symptom	发热..symptom
+-1diLsy	氟牙症..disease	尿频..symptom	阴道流血..symptom	血尿..symptom
+-1diLsy	穿透性角膜移植术所致青光眼..disease	头痛..symptom	咳嗽..symptom	肉眼血尿..symptom	呼吸困难..symptom	焦虑..symptom	明显变化..symptom
+-1diLsy	多发性骨髓瘤病肾病..disease	肩背部放射痛..symptom	杵状指..symptom	拒食..symptom
+-1diLsy	老年人终末期肺炎..disease	腹隆..symptom	头痛..symptom	咳少许黄色脓痰..symptom
+-1diLsy	盖氏骨折..disease	基因融合..symptom	明显压痛..symptom	疼痛..symptom	窒息..symptom	水肿..symptom
+-1diLsy	妊娠合并哮喘..disease	疼痛..symptom	关节疼痛..symptom
+-1diLsy	中枢神经细胞瘤..disease	肿块..symptom	咳嗽..symptom
+-1diLsy	急性肠系膜上动脉梗死..disease	三凹征..symptom	发热..symptom
+-1diLsy	硬脑膜下脓肿..disease	厌食..symptom	大汗..symptom	干啰音..symptom
+-1diLsy	免疫抑制药和抗癌药中毒性肾病..disease	血小板减少..symptom	头盆不称..symptom	水肿..symptom
+-1diLsy	血管损伤..disease	关节痛..symptom	皲裂..symptom	肌麻痹..symptom
+-1diLsy	阴道腺癌..disease	意识障碍..symptom	发热..symptom
+-1diLsy	特发性股骨头坏死..disease	恶心..symptom	广泛性剧烈腹痛..symptom	白带过多..symptom
+-1diLsy	青年人中的成年发病型糖尿病..disease	尿急..symptom	多食..symptom
+-1diLsy	单纯性肾囊肿..disease	恶心..symptom	高热畏寒..symptom	厌食..symptom	包块..symptom	乏力症状..symptom
+-1diLsy	下颌第三磨牙冠周炎..disease	血尿..symptom	哮鸣音..symptom	包块..symptom
+-1diLsy	颈椎间盘突出症..disease	绞痛..symptom	发绀..symptom
+-1diLsy	老年人炎症性肠病..disease	呕吐..symptom	疼痛..symptom	肾损害..symptom	尿流不畅..symptom
+-1diLsy	耻骨炎..disease	恶心..symptom	消瘦..symptom	渗液..symptom	水肿..symptom	冷汗..symptom
+-1diLsy	老年人低钠血症..disease	腰背痛..symptom	呕吐..symptom
+-1diLsy	小儿慢性肾小球肾炎..disease	呼吸困难..symptom	眩晕..symptom
+-1diLsy	脓性指头炎..disease	流涕..symptom	视力障碍..symptom
+-1diLsy	小儿急性中毒..disease	苍白..symptom	水肿..symptom
+-1diLsy	人类免疫缺陷病毒所致葡萄膜炎..disease	晕厥..symptom	黑便..symptom
+-1diLsy	肺疝..disease	胸闷..symptom	恶心..symptom	呕吐..symptom	肌紧张..symptom	咳少许白色粘液痰..symptom	气促..symptom	心前区及左肩部放射性疼痛..symptom	失血..symptom	阴道断端..symptom	抵抗力下降..symptom	肝掌..symptom	咳嗽..symptom	蜘蛛痣..symptom	哮鸣音..symptom	咳痰..symptom	休克..symptom	一般状态较差..symptom	RNP(+)..symptom
+-1diLsy	非典型麻疹综合征..disease	病理反射..symptom	胸痛..symptom
+-1diLsy	眼眶皮样囊肿..disease	衰弱..symptom	疼痛..symptom
+-1diLsy	腹膜后纤维化..disease	黄色脓痰..symptom	发热..symptom
+-1diLsy	头癣..disease	呛咳..symptom	发热..symptom	精神差..symptom	心慌..symptom	咳嗽..symptom	双肺呼吸音粗..symptom	脓痰..symptom	隐痛..symptom
+-1diLsy	无功能垂体腺瘤..disease	突然意识丧失..symptom	皮肤萎缩..symptom	头痛..symptom	发热..symptom	腹部肿块..symptom
+-1diLsy	神经系统结节病..disease	恶心..symptom	疼痛..symptom	腹胀..symptom	出血..symptom
+-1diLsy	登革热..disease	胸闷..symptom	杂音..symptom	嗳气..symptom	略感气短..symptom	广泛性剧烈腹痛..symptom	咯血..symptom	咳嗽..symptom	脐带绕颈..symptom	放射痛..symptom	肺动脉第二音亢进..symptom	压痛..symptom	发绀..symptom	咳痰..symptom	突然意识丧失..symptom
+-1diLsy	烧伤后肺水肿..disease	心脏杂音..symptom	心悸..symptom	尿痛..symptom	血压下降..symptom	水肿..symptom
+-1diLsy	外阴前庭炎..disease	双肺呼吸音稍粗..symptom	发绀..symptom
+-1diLsy	休克..disease	明显包块..symptom	消瘦..symptom	脐带绕颈..symptom
+-1diLsy	疖与疖病..disease	高热..symptom	头盆不称..symptom
+-1diLsy	糖尿病病史..disease	恶心..symptom	维生素B1缺乏..symptom
+-1diLsy	异物性食管穿孔..disease	黄疸..symptom	血小板减少..symptom	反复喘息..symptom
+-1diLsy	糖代谢异常伴发的精神障碍..disease	消瘦..symptom	异常..symptom
+-1diLsy	化学液体吸入..disease	心慌..symptom	呕吐..symptom	疼痛..symptom	发热..symptom
+-1diLsy	食管憩室..disease	疼痛..symptom	慢性咳嗽..symptom
+-1diLsy	流行性乙型脑炎..disease	呻吟..symptom	发热..symptom
+-1diLsy	桡骨远端骨骺分离..disease	恶心..symptom	血压升高..symptom	反射性呕吐..symptom
+-1diLsy	肝硬化..disease	多器官损害..symptom	关节痛..symptom
+-1diLsy	转换性障碍..disease	气促症状..symptom	听力障碍..symptom	胸痛..symptom
+-1diLsy	老年人结核性脑膜炎..disease	血尿酸升高..symptom	血尿..symptom
+-1diLsy	脑肿瘤..disease	反跳痛..symptom	恶心..symptom	不规律宫缩..symptom	头痛..symptom	浮肿..symptom	气短..symptom	心前区疼痛..symptom	咳少许黄色脓痰..symptom	便秘..symptom	腹型肥胖..symptom	右乳缺如..symptom	双肺呼吸音粗..symptom	病理性杂音..symptom	腰背剧痛..symptom	压痛..symptom	明显压痛叩痛..symptom	怒张..symptom	胸痛..symptom
+-1diLsy	鼻骨骨折..disease	脑缺氧..symptom	发热..symptom
+-1diLsy	腹壁硬纤维瘤..disease	血压下降..symptom	躁动..symptom	发热..symptom	发绀..symptom
+-1diLsy	沙雷菌肺炎..disease	耳鸣..symptom	脑膜刺激征..symptom	蠕动波..symptom
+-1diLsy	颅骨骨瘤..disease	多尿..symptom	黑便..symptom
+-1diLsy	二尖瓣闭锁不全..disease	咳嗽..symptom	血肿..symptom
+-1diLsy	妊娠合并心室间隔缺损..disease	异常分泌物..symptom	疼痛..symptom
+-1diLsy	肉芽肿性前列腺炎..disease	关节痛..symptom	前庭障碍性呕吐..symptom
+-1diLsy	脑出血..disease	疼痛..symptom	干湿啰音..symptom
+-1diLsy	EB病毒感染..disease	黑便..symptom	反射性呕吐..symptom
+-1diLsy	肺转移性肿瘤..disease	组织坏死..symptom	反流..symptom	头痛..symptom	胸痛..symptom	神经功能紊乱症状..symptom
+-1diLsy	小儿丘疹性肢皮炎综合征..disease	干啰音..symptom	发热..symptom
+-1diLsy	气管支气管异物..disease	呕吐..symptom	蜘蛛痣..symptom	疼痛..symptom	渗液..symptom
+-1diLsy	急性蜂窝织炎..disease	发热..symptom	水肿..symptom
+-1diLsy	白线疝..disease	宫缩..symptom	关节痛..symptom
+-1diLsy	老年人肺气肿..disease	疼痛..symptom	尿流不畅..symptom
+-1diLsy	原发性心脏横纹肌肉瘤..disease	黄疸..symptom	呕吐..symptom
+-1diLsy	血清病和血清病样反应..disease	头病..symptom	血尿..symptom
+-1diLsy	乙状结肠扭转..disease	呼吸困难..symptom	咽稍充血..symptom
+-1diLsy	中枢神经细胞瘤..disease	骨痛..symptom	血便..symptom
+-1diLsy	新生儿窒息..disease	胸闷..symptom	畏寒..symptom	气短..symptom	明显充盈..symptom	多器官功能衰竭..symptom	听力障碍..symptom	心律不齐..symptom	晕厥..symptom	咳中..symptom	反流..symptom	反应差..symptom	干湿啰音..symptom
+-1diLsy	小儿脾大..disease	呕吐..symptom	阴道流血..symptom
+-1diLsy	胸腺类癌..disease	恶心..symptom	心跳呼吸骤停..symptom
+-1diLsy	老年人胃癌..disease	恶心..symptom	湿热..symptom
+-1diLsy	脑膜癌病..disease	恶心..symptom	衰弱..symptom
+-1diLsy	鼻腔及鼻窦恶性肿瘤..disease	鼻塞..symptom	压痛..symptom
+-1diLsy	毛细胞白血病..disease	窒息..symptom	大汗..symptom	咳嗽..symptom	发热..symptom	阴道断端..symptom
+-1diLsy	心包切开术后综合征..disease	脾大..symptom	胸痛..symptom
+-1diLsy	妊娠合并肺栓塞..disease	里急后重..symptom	硬结..symptom	咳嗽..symptom
+-1diLsy	新生儿迁延性胆汁淤积性黄疸..disease	干湿罗音..symptom	黄疸..symptom	发绀..symptom
+-1diLsy	小脑扁桃体下疝畸形..disease	呕吐..symptom	生长缓慢..symptom	疼痛..symptom	特殊..symptom
+-1diLsy	迟发性运动障碍..disease	红肿..symptom	发作性胸骨后疼痛..symptom	胆汁反流..symptom	大网..symptom	腹痛..symptom	双下肢病理征阳性..symptom	黄色脓痰..symptom	双肺呼吸音稍粗..symptom	皲裂..symptom	特殊..symptom	腹膨隆..symptom	胎块..symptom	渗液..symptom
+-1diLsy	颈椎间盘突出症..disease	高热..symptom	神志不清..symptom
+-1diLsy	胰腺脓肿..disease	呼吸困难..symptom	血压下降..symptom
+-1diLsy	幽门梗阻..disease	心前区疼痛..symptom	呕吐..symptom
+-1diLsy	急性胰腺炎..disease	压痛..symptom	RNP(+)..symptom
+-1diLsy	肉芽肿性前列腺炎..disease	出血..symptom	消瘦..symptom	厌食..symptom	包块..symptom
+-1diLsy	肠系膜裂孔疝..disease	呼吸困难..symptom	咳痰..symptom	肌紧张..symptom	溶血性黄疸..symptom	明显包块..symptom
+-1diLsy	鼻中隔穿孔..disease	慢性进行性头痛..symptom	水肿..symptom	一般状态较差..symptom	体重减轻..symptom
+-1diLsy	小儿腺病毒性肺炎..disease	血尿..symptom	咳少许白色泡沫痰..symptom
+-1diLsy	白血病肾损害..disease	恶心..symptom	反复感染..symptom
+-1diLsy	胆固醇肺炎..disease	恶心..symptom	三凹征..symptom
+-1diLsy	器械性食管损伤..disease	痰量少..symptom	疼痛..symptom
+-1diLsy	小儿肝豆状核变性..disease	血尿..symptom	夜间阵发性呼吸困难..symptom
+-1diLsy	巴特综合征..disease	反跳痛..symptom	胸闷..symptom	一般状态较差..symptom	肌紧张..symptom	浮肿..symptom	气短..symptom	黄染..symptom	肿大..symptom	睡眠差..symptom	咳少许白粘痰..symptom	双肺呼吸音粗..symptom	四肢末梢麻木..symptom	白色粘痰..symptom	基因融合..symptom	明显变化..symptom
+-1diLsy	产后出血..disease	明显压痛叩痛..symptom	消瘦..symptom
+-1diLsy	单侧肺气肿..disease	反跳痛..symptom	高热..symptom	咳嗽..symptom	眼压升高..symptom
+-1diLsy	胰腺异位..disease	意识障碍..symptom	压痛..symptom
+-1diLsy	小儿溶血性贫血..disease	恶心..symptom	皮疹..symptom	疼痛..symptom	血肿..symptom	阵发性胸痛..symptom
+-1diLsy	产力异常性难产..disease	上腹剧烈疼痛..symptom	头痛..symptom
+-1diLsy	小儿蛋白质-能量营养不良..disease	胸闷..symptom	气促..symptom	慢性头痛..symptom	咳痰..symptom	休克..symptom	刺痛..symptom
+-1diLsy	结核性阴道炎..disease	疼痛..symptom	挑食..symptom
+-1diLsy	利斯特菌病..disease	恶心..symptom	腹泻..symptom	纤维组织增生..symptom
+-1diLsy	高血压3级..disease	恶心..symptom	头昏..symptom	右乳缺如..symptom	压痛..symptom
+-1diLsy	小儿变应性亚败血症综合征..disease	触痛..symptom	头痛..symptom
+-1diLsy	急性心肌梗死..disease	呕吐..symptom	脾大..symptom	气促..symptom
+-1diLsy	小儿急性间歇性卟啉病..disease	少尿..symptom	恶心..symptom	寒战..symptom	骨痛..symptom	发热..symptom
+-1diLsy	右肺恶性肿瘤..disease	呕吐..symptom	发作性呼吸困难..symptom	夜间阵发性呼吸困难..symptom
+-1diLsy	子宫肌瘤..disease	呕吐..symptom	白色粘液痰..symptom
+-1diLsy	小儿利斯特菌病..disease	蛋白尿..symptom	异常包块..symptom	体力活动明显受限..symptom	发热..symptom
+-1diLsy	小儿神经白塞综合征..disease	尿频..symptom	尿急..symptom	颈静脉怒张..symptom	拒食..symptom
+-1diLsy	多发性脑膜瘤..disease	呕吐..symptom	外伤..symptom
+-1diLsy	先天性短食管..disease	反跳痛..symptom	杂音..symptom	胸闷..symptom	隆起..symptom	及..symptom	喘息症状..symptom	成簇的水泡..symptom	肝掌..symptom	大汗淋漓..symptom	疼痛..symptom	咳痰..symptom	干湿啰音..symptom
+-1diLsy	小儿单侧肺异常透亮综合征..disease	面部畸形..symptom	呕吐..symptom
+-1diLsy	眶距过宽征..disease	呼吸困难..symptom	头痛..symptom
+-1diLsy	胸椎间盘突出症..disease	心慌..symptom	发绀..symptom
+-1diLsy	卵巢功能缺如综合征..disease	焦虑..symptom	咳白色粘液痰..symptom	水肿..symptom
+-1diLsy	Wegner肉芽肿伴发的葡萄膜炎..disease	疼痛..symptom	抽搐..symptom
+-1diLsy	指甲-髌骨综合征..disease	压痛..symptom	血压下降..symptom
+-1diLsy	肺出血-肾炎综合征..disease	疼痛..symptom	疲劳..symptom
+-1diLsy	肺部少见的恶性肿瘤..disease	听力减退..symptom	磨牙..symptom	发作性眩晕..symptom	血糖升高..symptom
+-1diLsy	白喉性心肌炎..disease	呕吐..symptom	咳喘..symptom
+-1diLsy	细菌性心包炎..disease	低蛋白血症..symptom	运动障碍..symptom	咳嗽..symptom	特殊..symptom	血压下降..symptom	胸痛..symptom	血肿..symptom
+-1diLsy	老年人正常压力脑积水..disease	恶心..symptom	多器官功能衰竭..symptom
+-1diLsy	急进性肾小球肾炎..disease	发作性胸骨后疼痛..symptom	呕吐..symptom
+-1diLsy	张力性气胸..disease	呕吐..symptom	局部红肿灼热..symptom
+-1diLsy	小儿肺泡性蛋白沉积症..disease	呼吸困难..symptom	右上腹绞痛..symptom	视力下降..symptom
+-1diLsy	小儿原发性腹膜炎..disease	失血..symptom	疼痛..symptom	劳力性气促..symptom
+-1diLsy	甲状腺功能亢进症的肾损害..disease	长期低热..symptom	视物旋转..symptom	双乳欠对称..symptom	水肿..symptom	消瘦..symptom	多饮..symptom
+-1diLsy	胸骨裂..disease	呼吸困难..symptom	体质虚弱..symptom
+-1diLsy	胫骨平台骨折..disease	寒战..symptom	肾上腺皮质激素..symptom	压痛..symptom	局部红肿灼热..symptom	咳嗽..symptom
+-1diLsy	睾丸肿瘤..disease	衰弱..symptom	压痛..symptom
+-1diLsy	肺转移性肿瘤..disease	疼痛..symptom	心律不齐..symptom
+-1diLsy	三尖瓣狭窄..disease	尿急..symptom	呕吐..symptom	蜘蛛痣..symptom
+-1diLsy	淋巴瘤样肉芽肿..disease	恶心..symptom	烦渴多饮..symptom
+-1diLsy	原发性甲状旁腺功能亢进症..disease	血小板少..symptom	双下肢水肿..symptom	咳嗽..symptom
+-1diLsy	脊柱外伤..disease	双下肢浮肿..symptom	发热..symptom	皮肤黏膜及其他部位出血..symptom	发绀..symptom	呼吸困难..symptom	苍白..symptom
+-1diLsy	铍中毒..disease	骨痛..symptom	畸形..symptom
+-1diLsy	鼠疫..disease	上腹剧烈疼痛..symptom	呕吐..symptom	反流..symptom	消瘦..symptom	反复喘息..symptom
+-1diLsy	奈瑟卡他球菌肺炎..disease	流涕..symptom	发作性眩晕..symptom
+-1diLsy	甲亢合并妊娠..disease	脑膜刺激征..symptom	休克..symptom	厌食..symptom	压痛..symptom	胃肠型..symptom
+-1diLsy	肾髓质囊性病..disease	发作性胸骨后疼痛..symptom	压痛..symptom
+-1diLsy	高尿酸血症..disease	蜘蛛痣..symptom	缺氧征..symptom	眼震..symptom	乏力..symptom	水肿..symptom
+-1diLsy	沙眼..disease	排尿不尽..symptom	发绀..symptom
+-1diLsy	烧伤后肠系膜上动脉综合征..disease	恶心..symptom	眼花..symptom
+-1diLsy	老年人上腔静脉受压综合征..disease	血小板少..symptom	多尿..symptom
+-1diLsy	慢性创伤性滑囊炎..disease	消瘦..symptom	失水..symptom
+-1diLsy	弓形体病性巩膜炎..disease	神经症症状..symptom	消瘦..symptom	疼痛..symptom	冷汗..symptom
+-1diLsy	肩关节不稳定..disease	皲裂..symptom	发热..symptom
+-1diLsy	气性坏疽..disease	恶心..symptom	高脂血症..symptom	连续机械样杂音..symptom
+-1diLsy	小儿流行性喘憋性肺炎..disease	肾绞痛..symptom	发热..symptom	明显异常..symptom
+-1diLsy	急性脓胸..disease	休克..symptom	咯白色粘痰..symptom	烦渴多饮..symptom	发热..symptom	胸痛..symptom
+-1diLsy	老年人慢性粒细胞白血病..disease	咳痰..symptom	肺性发绀..symptom	肿胀..symptom	发热..symptom
+-1diLsy	心包积液..disease	明显包块..symptom	脾大..symptom	咳嗽..symptom	胸痛..symptom
+-1diLsy	褥疮..disease	呕吐..symptom	血小板减少..symptom
+-1diLsy	特发性嗜酸性粒细胞增多综合征..disease	压痛..symptom	明显变化..symptom
+-1diLsy	原发气管支气管肿瘤..disease	恶露..symptom	贫血貌..symptom	胸痛..symptom
+-1diLsy	滑石粉尘肺..disease	尿急..symptom	胃肠型..symptom
+-1diLsy	小儿中暑和暑热症..disease	呼吸困难..symptom	右乳缺如..symptom	心音低钝..symptom
+-1diLsy	胃反应性淋巴增生..disease	呕吐..symptom	腹泻..symptom
+-1diLsy	原发性输卵管癌..disease	间歇性跛行..symptom	低热..symptom
+-1diLsy	心源性休克..disease	上腹剧烈疼痛..symptom	呕吐..symptom	乳糜尿..symptom	压痛..symptom
+-1diLsy	纵隔囊肿..disease	低血磷..symptom	压痛..symptom
+-1diLsy	高血压脑病..disease	低蛋白血症..symptom	头昏..symptom	头痛..symptom	胸痛..symptom
+-1diLsy	小儿肥胖性生殖无能综合征..disease	剧烈咳嗽..symptom	水肿..symptom
+-1diLsy	散发性脑炎伴发的精神障碍..disease	排尿不尽..symptom	发热..symptom	呕血..symptom	咳嗽..symptom	哮鸣音..symptom	基因融合..symptom
+-1diLsy	肱骨内髁骨折..disease	头痛..symptom	干湿罗音..symptom
+-1diLsy	围绝经期综合征..disease	面部畸形..symptom	消瘦..symptom	低热..symptom	纳差..symptom	多器官损害..symptom	鼻塞..symptom
+-1diLsy	新生儿溶血病..disease	劳力性胸闷..symptom	恶心..symptom
+-1diLsy	硬化剂治疗引起的食管损害..disease	疼痛..symptom	视力障碍..symptom
+-1diLsy	肩袖损伤..disease	急性腹泻..symptom	压痛..symptom
+-1diLsy	遗传性血管性水肿..disease	隆起..symptom	疼痛..symptom
+-1diLsy	膀胱结核..disease	视物模糊..symptom	关节痛..symptom
+-1diLsy	水、电解质紊乱伴发的精神障碍..disease	呼吸困难..symptom	长期低热..symptom	热水..symptom	发绀..symptom
+-1diLsy	肝脏类癌..disease	呛咳..symptom	咯血..symptom	杵状指..symptom	右上腹绞痛..symptom	呼吸困难..symptom	腰痛..symptom	黑朦..symptom	钝痛..symptom
+-1diLsy	小儿休克..disease	血尿酸升高..symptom	疼痛..symptom
+-1diLsy	放射性肠炎..disease	呼吸困难..symptom	阴道流水..symptom	肌紧张..symptom	咳嗽..symptom
+-1diLsy	新生儿惊厥..disease	抵抗力下降..symptom	消瘦..symptom	触及..symptom	乏力..symptom	腹部肿块..symptom
+-1diLsy	小儿食管异物..disease	便血..symptom	剧烈头痛..symptom
+-1diLsy	自发性食管破裂..disease	胸闷..symptom	排尿困难..symptom	胃肠型..symptom	阴道断端..symptom	腰背痛..symptom	咳嗽..symptom	纳差..symptom	咳痰..symptom	一般状态较差..symptom
+-1diLsy	外源性变应性肺泡炎..disease	呕吐..symptom	脐带绕颈..symptom	流涕..symptom
+-1diLsy	椎动脉型颈椎病..disease	呕血..symptom	耳鸣..symptom
+-1diLsy	肩关节不稳定..disease	发热..symptom	明显异常..symptom
+-1diLsy	眼眶蜂窝织炎..disease	恶心..symptom	心脏杂音..symptom
+-1diLsy	窦性心动过缓..disease	嗜盐..symptom	呕吐..symptom
+-1diLsy	不动杆菌肺炎..disease	呼吸困难..symptom	肾肿块..symptom
+-1diLsy	肾动静脉瘘..disease	宫缩..symptom	咳嗽..symptom	RNP(+)..symptom
+-1diLsy	产碱杆菌肺炎..disease	恶露..symptom	厌食..symptom	疼痛..symptom	少量咯血..symptom
+-1diLsy	妊娠合并肾病综合征..disease	恶心..symptom	腹压增高..symptom	压痛..symptom	睡眠稍差..symptom
+-1diLsy	妊娠合并自身免疫性溶血性贫血..disease	呼吸困难..symptom	神经症症状..symptom
+-1diLsy	咽异感症..disease	第一心音强弱不等..symptom	大汗淋漓..symptom	咳嗽..symptom
+-1diLsy	新生儿先天性胆道闭锁..disease	低蛋白血症..symptom	耳鸣..symptom
+-1diLsy	眼眶内静脉曲张..disease	红肿..symptom	尿急..symptom
+-1diLsy	癔症..disease	喘息症状..symptom	肾上腺皮质激素..symptom	咳嗽..symptom	发绀..symptom
+-1diLsy	糖尿病性视网膜病变..disease	心跳呼吸骤停..symptom	隐痛..symptom
+-1diLsy	小儿贾第虫病..disease	恶心..symptom	不典型增生..symptom
+-1diLsy	小儿遗传性血管神经性水肿..disease	体循环淤血..symptom	高热..symptom	咳嗽..symptom	大网..symptom
+-1diLsy	范科尼综合征..disease	休克..symptom	原始反射减弱..symptom
+-1diLsy	汗孔周围炎及多发性汗腺脓肿..disease	发绀..symptom	发热..symptom	神经功能紊乱症状..symptom
+-1diLsy	剖宫产..disease	呼吸困难..symptom	咽部紧缩感..symptom
+-1diLsy	脑外伤后综合征..disease	白色粘痰..symptom	呕吐..symptom
+-1diLsy	胰腺脓肿..disease	压痛..symptom	对光反射迟钝..symptom
+-1diLsy	颅内黑色素瘤..disease	咳少许白粘痰..symptom	右上腹痛..symptom	发热..symptom
+-1diLsy	肌肉肌腱单位的急性损伤..disease	晕厥..symptom	头痛..symptom
+-1diLsy	卵巢肿瘤..disease	感气促..symptom	肿..symptom	杵状指..symptom
+-1diLsy	结肠扭转..disease	恶心..symptom	流血..symptom
+-1diLsy	慢性肺部疾病..disease	双下肢水肿..symptom	呕吐..symptom	鳞状上皮..symptom
+-1diLsy	胆囊管综合征..disease	呼吸困难..symptom	脾大..symptom	气短..symptom
+-1diLsy	食管贲门黏膜撕裂综合征..disease	双下肢轻微浮肿..symptom	鼻塞..symptom	发热..symptom
+-1diLsy	电烧伤..disease	呼吸困难..symptom	咳痰..symptom	复视..symptom	对光反射迟钝..symptom
+-1diLsy	颈神经背支卡压症..disease	高热..symptom	腰背痛..symptom	心音低钝..symptom	缺氧征..symptom	发绀..symptom	咳中..symptom	阵发性胸痛..symptom
+-1diLsy	恶性胸腔积液..disease	腰背痛..symptom	广泛性剧烈腹痛..symptom
+-1diLsy	钩端螺旋体病的肾损害..disease	出汗..symptom	怒张..symptom	外伤..symptom	水肿..symptom
+-1diLsy	膈肌膨出..disease	恶心..symptom	尿流中断..symptom
+-1diLsy	窦性心动过缓..disease	绞榨样痛..symptom	排尿困难..symptom	畸形..symptom	引出..symptom	蛋白尿..symptom	尿痛..symptom	胆管扩张..symptom
+-1diLsy	肝上皮样血管内皮细胞瘤..disease	恶心..symptom	胆汁反流..symptom
+-1diLsy	急性肾盂肾炎..disease	白细胞减少..symptom	水肿..symptom
+-1diLsy	限制型心肌病..disease	组织坏死..symptom	疼痛..symptom
+-1diLsy	胸廓出口综合征..disease	血压升高..symptom	疼痛..symptom
+-1diLsy	胃癌..disease	胸闷..symptom	咳少许黄色脓痰..symptom	头痛..symptom	发热..symptom	发绀..symptom	咳白色粘痰..symptom
+-1diLsy	胰腺囊腺瘤和囊腺癌..disease	咳少许黄色脓痰..symptom	发热..symptom
+-1diLsy	西伯利亚立克次体斑疹热..disease	眩晕..symptom	意识障碍及衰竭..symptom
+-1diLsy	志贺菌病..disease	蛋白尿..symptom	全身小关节对称性疼痛..symptom
+-1diLsy	踝部急性韧带损伤..disease	呕吐..symptom	鳞状上皮..symptom
+-1diLsy	肾性尿崩症..disease	恶心..symptom	皮肤黏膜黄染..symptom
+-1diLsy	退变性骶髂关节炎..disease	双下肢浮肿..symptom	头痛..symptom
+-1diLsy	白血病视网膜病变..disease	尿流细..symptom	咳嗽..symptom	咳少许白色泡沫痰..symptom
+-1diLsy	遗传性高铁血红蛋白血症..disease	咳少许白色粘液痰..symptom	咯血..symptom	慢性腹泻..symptom	寒战..symptom	咳嗽..symptom	乏力..symptom	腹膨隆..symptom	咳痰..symptom	焦虑..symptom	胸痛..symptom
+-1diLsy	视网膜母细胞瘤..disease	疼痛..symptom	反射性呕吐..symptom
+-1diLsy	贲门黏膜撕裂综合征..disease	胸骨后疼痛..symptom	胸痛..symptom
+-1diLsy	克罗恩病..disease	双下肢浮肿..symptom	疼痛..symptom
+-1diLsy	化脓性盆腔血栓静脉炎..disease	出汗..symptom	呼吸困难..symptom	异常分泌物..symptom
+-1diLsy	腹主动脉动脉瘤破裂..disease	恶心..symptom	脐带绕颈..symptom
+-1diLsy	老年人甲减性心脏病..disease	甲状腺功能低下..symptom	惊厥..symptom	疼痛..symptom	压痛..symptom	明显异常..symptom
+-1diLsy	流行性腮腺炎..disease	抑郁..symptom	恶心..symptom
+-1diLsy	铜绿假单胞菌感染..disease	声嘶..symptom	恶心..symptom
+-1diLsy	糖尿病心脏病..disease	右乳缺如..symptom	压痛..symptom
+-1diLsy	小儿法洛四联症..disease	厌食..symptom	疼痛..symptom	前庭障碍性呕吐..symptom	异常杂音..symptom	双乳欠对称..symptom
+-1diLsy	症状性癫痫综合征..disease	恶心..symptom	反射性呕吐..symptom
+-1diLsy	泌尿生殖系真菌病..disease	恶心..symptom	轻微咳嗽..symptom
+-1diLsy	老年人睡眠障碍..disease	杂音..symptom	压痛..symptom
+-1diLsy	胰腺假囊肿..disease	恶心..symptom	喘息..symptom
+-1diLsy	疼痛性眼肌麻痹..disease	尿频..symptom	尿急..symptom	慢性进行性头痛..symptom	肿..symptom
+-1diLsy	阿司匹林诱发哮喘..disease	胎儿宫内窘迫..symptom	呕吐..symptom	意识障碍..symptom	压痛..symptom
+-1diLsy	血栓性静脉炎..disease	咳痰..symptom	鼻塞..symptom	寒冷..symptom	发绀..symptom
+-1diLsy	奥迪括约肌功能异常..disease	移动性浊音..symptom	异常包块..symptom	明显压痛..symptom	反酸..symptom	阴道断端..symptom	异常杂音..symptom	包块..symptom	反复喘息..symptom	发热..symptom	白色粘液痰..symptom	淤血..symptom	明显干湿啰音..symptom	尖叫..symptom	怒张..symptom	明显变化..symptom	干湿罗音..symptom
+-1diLsy	桡骨颈骨折和桡骨头骨骺分离..disease	基因融合..symptom	惊厥..symptom	水肿..symptom
+-1diLsy	小儿慢性肾功能衰竭..disease	恶心..symptom	休克..symptom
+-1diLsy	十二指肠胃反流及胆汁反流性胃炎..disease	疼痛..symptom	咳少许白色粘痰..symptom
+-1diLsy	曲霉病..disease	引出..symptom	咳嗽..symptom
+-1diLsy	小儿肺栓塞..disease	劳力性胸闷..symptom	义齿..symptom	呕吐..symptom	压痛..symptom
+-1diLsy	颈椎间盘突出症..disease	咳嗽..symptom	肿..symptom
+-1diLsy	急性卵巢、输卵管自身扭转..disease	反跳痛..symptom	排便困难..symptom	呕吐..symptom
+-1diLsy	腹壁挫伤..disease	恶心..symptom	唇欠红润..symptom
+-1diLsy	非霍奇金淋巴瘤..disease	腰背痛..symptom	盗汗..symptom
+-1diLsy	败血症..disease	便血..symptom	高脂血症..symptom
+-1diLsy	呼吸系统疾病伴发的精神障碍..disease	腹痛..symptom	头痛..symptom
+-1diLsy	单纯疱疹性脑炎..disease	头痛..symptom	少尿..symptom	蛋白尿..symptom	乏力..symptom	肺性发绀..symptom	腹部稍膨隆..symptom	尖叫..symptom
+-1diLsy	乳腺癌..disease	呕吐..symptom	苍白..symptom
+-1diLsy	蛋白质-能量营养不良..disease	呼吸困难..symptom	呕吐..symptom	胃肠型..symptom
+-1diLsy	肺囊性纤维化..disease	疼痛..symptom	关节痛..symptom
+-1diLsy	小儿慢性支气管炎..disease	疼痛..symptom	尿流细..symptom
+-1diLsy	小儿获得性免疫缺陷综合征肾病..disease	尿急..symptom	血小板减少..symptom	反流..symptom	血尿..symptom	血压下降..symptom
+-1diLsy	老年性阴道炎..disease	气促..symptom	痰中带血..symptom	慢性进行性头痛..symptom	咳嗽..symptom	乏力症状..symptom	咳痰..symptom
+-1diLsy	过敏性急性小管间质性肾炎..disease	疼痛..symptom	痰中带血..symptom
+-1diLsy	肺动脉高压..disease	儿童慢性咳嗽..symptom	水肿..symptom	视物模糊..symptom	消瘦..symptom	压痛..symptom	肌麻痹..symptom
+-1diLsy	腹痛..disease	消瘦..symptom	肺动脉第二音亢进..symptom	烦渴多饮..symptom
+-1diLsy	膀胱结石..disease	尿频..symptom	切口..symptom
+-1diLsy	老年人颈性眩晕..disease	胎儿宫内窘迫..symptom	气促..symptom	病理性心脏杂音..symptom	引出..symptom	气促不适..symptom	咳少许白色或淡黄色粘痰..symptom	腹胀..symptom	啰音..symptom	双肺呼吸音粗..symptom	疲劳..symptom	休克..symptom	停经..symptom	发绀..symptom	高..symptom	胀..symptom	胎膜早破..symptom	腹部稍膨隆..symptom	青紫..symptom	上腹痛..symptom
+-1diLsy	巴西紫热..disease	呼吸困难..symptom	咳黄痰..symptom	吞咽困难..symptom	运动障碍..symptom
+-1diLsy	子宫内膜异位..disease	肾上腺皮质激素..symptom	脑膜刺激征..symptom	头痛..symptom	哮鸣音..symptom
+-1diLsy	脑脓肿..disease	呕吐..symptom	疼痛..symptom	腹胀..symptom	排低比重尿..symptom
+-1diLsy	视神经乳头水肿及视盘水肿..disease	流涕..symptom	发热..symptom
+-1diLsy	气管及支气管发育障碍..disease	胀..symptom	关节疼痛..symptom	咳嗽..symptom	胸痛..symptom
+-1diLsy	小儿急性出血性坏死性肠炎..disease	恶心..symptom	心包摩擦感..symptom
+-1diLsy	小儿急性喉气管支气管炎..disease	双下肢病理征阳性..symptom	疼痛..symptom
+-1diLsy	大网膜囊肿..disease	明显肿大淋巴结..symptom	呕吐..symptom
+-1diLsy	小儿人类细小病毒B19感染..disease	红肿..symptom	便血..symptom	咳白色粘痰..symptom
+-1diLsy	呼吸道感染..disease	呼吸困难..symptom	绞榨样痛..symptom	明显肿大淋巴结..symptom
+-1diLsy	带状疱疹病毒性巩膜炎..disease	血小板少..symptom	手术创伤..symptom	乏力..symptom
+-1diLsy	颊间隙感染..disease	引出..symptom	发热..symptom
+-1diLsy	血栓性浅静脉炎..disease	持续性疼痛..symptom	血尿..symptom	腹水..symptom
+-1diLsy	老年人原发性恶性高血压引起的恶性小动脉肾硬化..disease	呕吐..symptom	剧烈咳嗽..symptom
+-1diLsy	新生儿低镁血症..disease	蛋白尿..symptom	心跳呼吸骤停..symptom	神志不清..symptom
+-1diLsy	星形细胞瘤..disease	肉眼血尿..symptom	压痛..symptom
+-1diLsy	甲状腺癌..disease	异常包块..symptom	绞榨样痛..symptom	少尿..symptom	消瘦..symptom	多器官损害..symptom	乏力..symptom
+-1diLsy	血红蛋白C病..disease	恶心..symptom	呕吐..symptom	阴道流血..symptom	明显异常..symptom
+-1diLsy	老年急性动脉栓塞..disease	苍白..symptom	水肿..symptom
+-1diLsy	淋巴丝虫病..disease	便血..symptom	发热..symptom	双下肢病理征阳性..symptom	双肺呼吸音粗..symptom	咳嗽..symptom	胸痛..symptom
+-1diLsy	甲状旁腺功能亢进性心肌病..disease	血小板少..symptom	异常包块..symptom	腹部肿块..symptom
+-1diLsy	腹腔肺吸虫病..disease	头痛..symptom	哮鸣音..symptom
+-1diLsy	颈交感神经麻痹综合征..disease	声嘶..symptom	明显压痛叩痛..symptom	咳血..symptom	咳嗽..symptom	哮鸣音..symptom
+-1diLsy	积乳囊肿..disease	白色粘痰..symptom	咳痰..symptom	多汗症..symptom
+-1diLsy	小儿营养不良性消瘦..disease	握雪感..symptom	咳嗽..symptom	发热..symptom	神志不清..symptom
+-1diLsy	小肠重复畸形..disease	重压窒息感..symptom	压痛..symptom	血肿..symptom
+-1diLsy	老年人神经症..disease	排尿困难..symptom	高热..symptom	痰中带血..symptom	疼痛..symptom	尿痛..symptom	尿频..symptom
+-1diLsy	后尿道瓣膜..disease	呕吐..symptom	腹型肥胖..symptom
+-1diLsy	甲亢合并妊娠..disease	反复感染..symptom	压痛..symptom
+-1diLsy	老年人类风湿性关节炎..disease	蛋白尿..symptom	咳少许黄色粘液痰..symptom
+-1diLsy	自发性腹膜后出血或血肿..disease	昏迷..symptom	尿急..symptom	高凝状态..symptom	血尿..symptom	腹壁肌紧张..symptom
+-1diLsy	急进性肾炎..disease	胸闷..symptom	睡眠欠佳..symptom	磨牙..symptom	反跳痛..symptom	头晕..symptom	咳少许白色粘痰..symptom	喘息..symptom	干湿啰音..symptom
+-1diLsy	结直肠损伤..disease	恶心..symptom	磨牙..symptom	疼痛..symptom	上腹部不适..symptom
+-1diLsy	吉兰-巴雷综合征..disease	呕吐..symptom	多食..symptom
+-1diLsy	小儿尿石症..disease	发作性胸骨后疼痛..symptom	颅内出血..symptom	水肿..symptom
+-1diLsy	埃博拉病毒病..disease	嗜盐..symptom	恶心..symptom	压痛..symptom	血便..symptom
+-1diLsy	狂犬病..disease	头痛..symptom	失水..symptom
+-1diLsy	尿瘘..disease	恶心..symptom	意识丧失..symptom	异常分泌物..symptom	压痛..symptom
+-1diLsy	十二指肠炎..disease	颅内出血..symptom	压痛..symptom
+-1diLsy	膀胱憩室..disease	呕吐..symptom	心慌..symptom
+-1diLsy	食管化学性烧伤..disease	乳糜尿..symptom	呕吐..symptom
+-1diLsy	妊娠高血压综合征眼底病变..disease	疼痛..symptom	疱疹..symptom
+-1diLsy	骨质软化症与佝偻病..disease	引出..symptom	疼痛..symptom
+-1diLsy	朗汉斯细胞的组织细胞增多症..disease	恶心..symptom	黏膜损害..symptom
+-1diLsy	风疹..disease	恶心..symptom	阴道流血..symptom
+-1diLsy	先天性小肠闭锁和肠狭窄..disease	恶心..symptom	尿流不畅..symptom
+-1diLsy	翼钩过长..disease	触痛..symptom	蠕动波..symptom	呕吐..symptom	压痛..symptom	眼压升高..symptom
+-1diLsy	小儿狼疮肾炎..disease	呼吸困难..symptom	肉眼血尿..symptom	低蛋白血症..symptom
+-1diLsy	胫腓下联合前部分离..disease	胀..symptom	腰痛..symptom	心脏杂音..symptom	少尿..symptom	皮肤紫癜..symptom
+-1diLsy	自发性脑室内出血..disease	刺激性气味易发..symptom	疼痛..symptom	压痛..symptom	血性痰..symptom
+-1diLsy	慢性扁桃体炎..disease	流血..symptom	乏力..symptom
+-1syRdi	腹部肿块..symptom	肝硬化..disease	疟疾肾病..disease
+-1syRdi	二便失禁..symptom	支气管扩张..disease	软组织肉瘤..disease
+-1syRdi	明显压痛叩痛..symptom	尿路感染..disease	眼眶嗜酸性肉芽肿..disease	胰腺脓肿..disease
+-1syRdi	抬举感..symptom	急性肾盂肾炎..disease	老年人肠易激综合征..disease
+-1syRdi	脓肿..symptom	特发性腹膜后纤维化..disease	二尖瓣闭锁不全..disease
+-1syRdi	明显肿大淋巴结..symptom	结肠癌..disease	炭疽..disease
+-1syRdi	心前区疼痛..symptom	巨大肥厚性胃炎..disease	低钾血症..disease
+-1syRdi	触及..symptom	睾丸扭转..disease	冠心病..disease	脑积水..disease
+-1syRdi	焦虑..symptom	小儿食管化学性烧伤..disease	子宫颈肉瘤..disease
+-1syRdi	杵状指..symptom	贫血..disease	囊虫病..disease	小儿骨与关节结核..disease	胃癌..disease
+-1syRdi	蠕动波..symptom	急性胆囊炎..disease	慢性支气管炎..disease
+-1syRdi	胆汁反流..symptom	转移性小肠肿瘤..disease	小儿继发性免疫缺陷病..disease	夹层动脉瘤..disease	老年人支气管扩张..disease
+-1syRdi	皮肤黄染..symptom	睾丸肿瘤..disease	天花..disease
+-1syRdi	啰音..symptom	小儿低氯性氮质血症综合征..disease	肝硬化失代偿期..disease	老年人肺脓肿..disease	肺炎..disease
+-1syRdi	肾上腺皮质激素..symptom	弗郎西丝菌肺炎..disease	肾盂肾炎..disease
+-1syRdi	白细胞减少..symptom	成人类风湿性关节炎性巩膜炎..disease	眩晕..disease	眶骨髓炎..disease	寇热..disease
+-1syRdi	触痛..symptom	烧伤休克..disease	肝炎..disease	小儿气管、支气管异物..disease
+-1syRdi	肺性发绀..symptom	呼吸衰竭..disease	小儿肥胖性生殖无能综合征..disease	胸、腰椎椎体单纯性、楔形压缩骨折..disease
+-1syRdi	晨僵..symptom	结核性脊椎炎..disease	不稳定型心绞痛..disease
+-1syRdi	听力减退..symptom	再生障碍性贫血..disease	性交疼痛..disease
+-1syRdi	高热..symptom	恶性淋巴瘤..disease	肩袖损伤..disease
+-1syRdi	白细胞减少..symptom	肺荚膜组织胞浆菌病..disease	小儿脑水肿与颅内高压综合征..disease
+-1syRdi	头节..symptom	妊娠合并急性肾盂肾炎..disease	高血压病2级..disease	二尖瓣狭窄..disease	心肌炎..disease
+-1syRdi	病理性杂音..symptom	寒冷性红斑..disease	小儿胃结块症..disease
+-1syRdi	昏迷..symptom	高渗性非酮症糖尿病昏迷..disease	前列腺癌..disease
+-1syRdi	尿急..symptom	胰腺病变..disease	急性心肌梗死..disease
+-1syRdi	生长缓慢..symptom	神经功能紊乱..disease	副溶血性弧菌食物中毒..disease
+-1syRdi	病理性心脏杂音..symptom	腰背部软组织急性扭挫伤..disease	成人腹股沟斜疝..disease
+-1syRdi	第一心音强弱不等..symptom	尿道黏膜脱垂..disease	农民肺..disease	流行性乙型脑炎..disease	心肌炎..disease	心肌病..disease	急性肾功能衰竭..disease	二尖瓣狭窄..disease	不稳定型心绞痛..disease
+-1syRdi	四肢无力..symptom	肺不张..disease	肱二头肌长头腱鞘炎..disease	猴痘..disease
+-1syRdi	长期低热..symptom	高尿酸血症肾病..disease	胆道出血..disease
+-1syRdi	头盆不称..symptom	呼吸衰竭..disease	颅骨骨折..disease	肾小管性酸中毒..disease	呼吸性碱中毒..disease
+-1syRdi	RNP(+)..symptom	咽部及颈部食管闭合性损伤..disease	胰腺炎..disease	胆石症..disease	肾上腺皮质功能减退症..disease	鼻真菌病..disease	慢性胆囊炎..disease
+-1syRdi	尿流中断..symptom	胆汁性腹膜炎..disease	壶腹周围癌..disease
+-1syRdi	排便困难..symptom	新生儿急性肾功能衰竭..disease	软骨母细胞瘤..disease	口底多间隙感染..disease
+-1syRdi	失血..symptom	精囊囊肿..disease	急性心肌梗死..disease	急性酒中毒..disease	肾皮质化脓性感染..disease	不稳定型心绞痛..disease
+-1syRdi	啰音..symptom	筋膜间隔区综合征..disease	小儿结核性心包炎..disease
+-1syRdi	面部畸形..symptom	汉坦病毒肺综合征..disease	急性梗阻性化脓性胆管炎..disease	急性胆囊炎..disease	慢性纵隔炎..disease	胆汁性腹膜炎..disease	淀粉样变性..disease
