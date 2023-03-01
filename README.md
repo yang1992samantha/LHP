@@ -14,7 +14,7 @@ python main.py -- data "medical" --dataset "splits/1" --epoch 5000 --task "multi
 
 ### Dataset
 
-There are there datasets used in this paper,CMHR,iAF1260b,Reverb45k
+There are four datasets used in this paper,CMHR,iAF1260b,iJO1366,USPTO
 
 In this paper, a logical hypergraph is proposed to express the directed high-order relationships in the medical domain, and a CMHR dataset is constructed.----"./medical",including two initialization embeddings(Bert,Word2vector),entity list, train data,valid data,test data.
 
