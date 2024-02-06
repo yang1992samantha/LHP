@@ -8,7 +8,7 @@
 
 For example,this command train and test a LHP model on CMHR dataset
 
-python main.py -- data "medical" --dataset "splits/1" --epoch 5000 --task "multi_classifier" --embedding "word2vec" --embed_dim_in 768
+python main.py --data "medical" --dataset "splits/1" --epoch 5000 --task "multi_classifier" --embedding "word2vector" --embed_dim_in 768
 
  Check argparse configuration at config.py for more arguments and more details. 
 
